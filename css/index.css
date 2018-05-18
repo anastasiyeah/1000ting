@@ -1,3 +1,25 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  color: #3f3f3f; }
 
+.velkommen {
+  float: right;
+  background-color: #f2b6a0;
+  max-width: 30%;
+  padding: 20px;
+  margin: 30px 30px 0px 0px; }
+
+.webshopbtn {
+  margin-top: 30px;
+  background-color: #f27830;
+  padding: 20px;
+  text-decoration: none;
+  color: black; }
+
+.address {
+  margin-left: 50px;
+  max-width: 40%; }
+  .address h4, .address h6, .address p, .address address {
+    text-align: center; }
 
 /*# sourceMappingURL=index.css.map */
