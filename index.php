@@ -21,20 +21,20 @@
 	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
 		<section class="products">
 			<p class="products__description">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed. Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed</p>
-			<a href="#" class="products__link" >GÅ TIL WEBSHOP</a>
 		</section>
 		
+	<a href="#" class="webshoplink" >GÅ TIL WEBSHOP</a>
 
 	
 	
-	<!---- OPENING HOURS AND ADDRESS ---->		
+	<!---- OPENING HOURS ---->		
 	<section class="openinghours">
-		<h4>Vi er mere end bare en butik! <br>
-		Kom forbi og se for dig selv</h4>
+		<h3>Vi er mere end bare en butik!</h3>
+		<h4>Kom forbi og se for dig selv</h4>
 		<p>Mandag-fredag: kl.10.00 - 17.30 <br>
 		Lørdag: kl.10.00 - 14.00 <br>
 		Søndag: lukket</p>
-		<address>Jægergårdsgade 18-20, 8000 Århus C</address>
+		<!--- <address>Jægergårdsgade 18-20, 8000 Århus C</address> -->
 	</section>
     
 </body>
