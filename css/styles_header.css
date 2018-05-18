@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  color: #3f3f3f; }
+
+.navigation {
+  font-family: "Work Sans", sans-serif;
+  margin-left: 5%;
+  margin-top: 5%;
+  color: #f27830; }
+  .navigation__name {
+    font-size: 45px;
+    display: inline-block;
+    margin-right: 7%; }
+  .navigation__line {
+    display: inline-block;
+    list-style-type: none;
+    width: 70%; }
+  .navigation__link {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 7%; }
+
+.borderline {
+  margin-left: 5%;
+  border-bottom: 3px solid #f27830;
+  width: 63%; }
+
+/*# sourceMappingURL=styles_header.css.map */

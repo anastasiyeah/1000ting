@@ -7,6 +7,7 @@
 <meta name="description" content="">
 
 <link href="css/index.css" type="text/css" rel="stylesheet"> 
+<link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500" rel="stylesheet">
 	
 <title>1000 TING | Jægergårdsgade 18-20, 8000 Århus C</title>
@@ -18,8 +19,11 @@
 	   <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
 
-	<!---- VIDEO ---->	
+	<!---- VIDEO ---->
+	
+	<section class="video">
 		<video></video>
+	</section>
 	
 	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
 		<section class="products">
