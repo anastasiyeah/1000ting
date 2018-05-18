@@ -15,24 +15,20 @@
 	
 <body>
 
-	<header>
-	</header>
-	
-	
-	<section class="velkommen">
+	<!---- VIDEO ---->	
 		<video></video>
+	
+	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
+		<section class="products">
+			<p class="products__description">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed. Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed</p>
+			<a href="#" class="products__link" >GÅ TIL WEBSHOP</a>
+		</section>
 		
-		<article class="velkommen__tekst">
-			<p>Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed. Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed</p>
-			
-			<a href="#" class="webshopbtn" >GÅ TIL WEBSHOP</a>
-		</article>
-		
-	</section>
+
 	
 	
-	
-	<section class="address">
+	<!---- OPENING HOURS AND ADDRESS ---->		
+	<section class="openinghours">
 		<h4>Vi er mere end bare en butik! <br>
 		Kom forbi og se for dig selv</h4>
 		<p>Mandag-fredag: kl.10.00 - 17.30 <br>
