@@ -27,7 +27,7 @@
 	
 	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
 		<section class="products">
-			<p class="products__description">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at der er produkter med en historie og personlighed.</p>
+			<p class="products__description">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
 		</section>
 		
 	<a href="#" class="webshoplink" >GÅ TIL WEBSHOP</a>
@@ -36,7 +36,7 @@
 	
 	<!---- OPENING HOURS ---->		
 	<section class="openinghours">
-		<h3>Vi er mere end bare en butik!</h3>
+		<h1>Vi er mere end bare en butik!</h1>
 		<h4>Kom forbi og se for dig selv</h4>
 		<p>Mandag-fredag: kl.10.00 - 17.30 <br>
 		Lørdag: kl.10.00 - 14.00 · Søndag: lukket</p>
