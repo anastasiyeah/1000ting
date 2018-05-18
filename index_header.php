@@ -8,6 +8,8 @@
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
     
+    <link href="css/reset.css" rel="stylesheet" type="text/css">
+    
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
 	
 </head>
@@ -15,7 +17,6 @@
      
      <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
-     
      
 </body>
 </html>
