@@ -14,6 +14,9 @@
 </head>
 	
 <body>
+	
+	   <!-- HEADER INCLUDE -->
+     <?php include "includes/header.php";?>
 
 	<!---- VIDEO ---->	
 		<video></video>
