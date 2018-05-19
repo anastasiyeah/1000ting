@@ -1,5 +1,6 @@
 $font-heading: 'Work Sans', sans-serif;
 
+/* -- OVERALL STYLING -- */
 
 body {
 	font-family: $font-heading;
@@ -11,14 +12,21 @@ p {
 }
 
 
+/* --  ABOUT SECTION ----  */
+
 .about {
-    margin-top: 5%;
+    margin-top: 2%;
 	
 	&__article {
 	max-width: 30%;
 	padding: 4%;
 	line-height: 30px;
 	margin-left: 5%;
+	}
+	
+	&__h1 {
+		font-size: 150%;
+		padding-bottom: 1%;
 	}
 	
 	&__img {
@@ -29,10 +37,13 @@ p {
 	}
 }
 
+
+/*  ---   OPENINGHOURS BOTTOM SECTION --- */
+
 .openinghours {
 	background-color: #f2b6a0;
 	margin-top: -1%;
-	padding: 2% 0px 2% 5%;
+	padding: 2% 0px 3% 9%;
 	
 	&__address {
 		padding-top: 2%;

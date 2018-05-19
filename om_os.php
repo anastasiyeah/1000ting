@@ -23,8 +23,8 @@
 
 	<section class="about">
 		<article class="about__article">
-		<h1>Meget mere end bare en butik -</h1>
-		<p>Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
+		<h1 class="about__h1">Meget mere end bare en butik</h1>
+		<p class="about__p">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
 		</article>
 	<img class="about__img" src="images/facade.jpg" alt="Picture of 1000Tings shop facade" >
 	</section>
@@ -34,7 +34,7 @@
 	
 	<!---- OPENING HOURS ---->		
 	<section class="openinghours">
-		<h3>Åbningstider</h3>
+		<h4>Åbningstider</h4>
 		<p>Mandag-fredag: kl.10.00 - 17.30 <br>
 		Lørdag: kl.10.00 - 14.00 <br>
 		Søndag: lukket</p>
