@@ -5,9 +5,24 @@ body {
 p {
   font-weight: 300; }
 
+.about {
+  margin-top: 5%; }
+  .about__article {
+    max-width: 30%;
+    padding: 4%;
+    line-height: 30px;
+    margin-left: 5%; }
+  .about__img {
+    max-width: 40%;
+    float: right;
+    margin-top: -25%;
+    margin-right: 9%; }
+
 .openinghours {
   background-color: #f2b6a0;
-  margin-top: 5%;
+  margin-top: -1%;
   padding: 2% 0px 2% 5%; }
+  .openinghours__address {
+    padding-top: 2%; }
 
 /*# sourceMappingURL=om_os.css.map */

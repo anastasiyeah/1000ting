@@ -19,23 +19,28 @@
 	   <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
 
-	<!---- VIDEO ---->
+	<!---- OM OS  ---->
 
+	<section class="about">
+		<article class="about__article">
+		<h1>Meget mere end bare en butik -</h1>
+		<p>Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
+		</article>
+	<img class="about__img" src="images/facade.jpg" alt="Picture of 1000Tings shop facade" >
+	</section>
 	
-	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
-
-
+	
 	
 	
 	<!---- OPENING HOURS ---->		
 	<section class="openinghours">
-		<h3>Vi er mere end bare en butik!</h3>
-		<h4>Kom forbi og se for dig selv</h4>
+		<h3>Åbningstider</h3>
 		<p>Mandag-fredag: kl.10.00 - 17.30 <br>
 		Lørdag: kl.10.00 - 14.00 <br>
 		Søndag: lukket</p>
-		<address>Jægergårdsgade 18-20 <br>
-				8000 Århus C</address>
+		
+		<address class="openinghours__address">Jægergårdsgade 18-20 <br>
+				8000 Århus C</address>		
 	</section>
 	
 	

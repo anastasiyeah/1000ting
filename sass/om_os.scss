@@ -10,12 +10,31 @@ p {
 	font-weight: 300;
 }
 
-.openinghours {
-	background-color: #f2b6a0;
-	margin-top: 5%;
-	padding: 2% 0px 2% 5%;
 
+.about {
+    margin-top: 5%;
 	
+	&__article {
+	max-width: 30%;
+	padding: 4%;
+	line-height: 30px;
+	margin-left: 5%;
+	}
 	
+	&__img {
+		max-width: 40%;
+		float: right;
+		margin-top: -25%;
+		margin-right: 9%;
+	}
 }
 
+.openinghours {
+	background-color: #f2b6a0;
+	margin-top: -1%;
+	padding: 2% 0px 2% 5%;
+	
+	&__address {
+		padding-top: 2%;
+	}
+}
