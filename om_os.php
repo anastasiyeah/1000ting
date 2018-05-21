@@ -34,8 +34,8 @@
 	
 	<!---- OPENING HOURS ---->		
 	<section class="openinghours">
-		<h4>Åbningstider</h4>
-		<p>Mandag-fredag: kl.10.00 - 17.30 <br>
+		<h4 class="openinghours__h4">Åbningstider</h4>
+		<p class="openinghours__p">Mandag-fredag: kl.10.00 - 17.30 <br>
 		Lørdag: kl.10.00 - 14.00 <br>
 		Søndag: lukket</p>
 		
