@@ -6,7 +6,7 @@
         <ul class="navigation__line">
             <li class="navigation__link"><a href="index.html">HJEM</a></li>
             <li class="navigation__link"><a href="#">OM OS</a></li>
-            <li class="navigation__link"><a href="#">KONTAKT</a></li>
+            <li class="navigation__link"><a href="kontakt.php">KONTAKT</a></li>
             <li class="navigation__link"><a href="#">WEBSHOP</a></li>
         </ul>
      </nav>
