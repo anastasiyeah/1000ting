@@ -44,15 +44,14 @@
 	<section class="openinghours">
 		<h2 class="openinghours__h2" >Vi er mere end bare en butik!</h2>
 		<h4 class="openinghours__h4" >Kom forbi og se for dig selv</h4>
-		<p class="openinghours__p">Mandag-fredag: kl.10.00 - 17.30 <br>
-		Lørdag: kl.10.00 - 14.00 · Søndag: lukket</p>
+		<p class="openinghours__p">Mandag-fredag: kl.10.00 - 17.30 <br>Lørdag: kl.10.00 - 14.00 <br>Søndag: lukket</p>
 		<!--- <address>Jægergårdsgade 18-20, 8000 Århus C</address> -->
 	</section>
     
     	
-	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:700px; height:400px">
-		<canvas id="canvas" width="700" height="400" style="position: absolute; display: block; "></canvas>
-		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:700px; height:400px; position: absolute; left: 0px; top: 0px; display: block;">
+	<div id="animation_container" >
+		<canvas id="canvas"></canvas>
+		<div id="dom_overlay_container">
 		</div>
 	</div>
   
