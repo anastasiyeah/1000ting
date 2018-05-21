@@ -124,8 +124,11 @@ function handleComplete(evt,comp) {
 	</section>
     
     	
-	
-    <canvas id="canvas" width="700" height="400" style="position: absolute; display: block; background-color:rgba(255, 255, 255, 1.00);"></canvas>
+	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:700px; height:400px">
+		<canvas id="canvas" width="700" height="400" style="position: absolute; display: block; background-color:rgba(255, 255, 255, 1.00);"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:700px; height:400px; position: absolute; left: 0px; top: 0px; display: block;">
+		</div>
+	</div>
   
 </body>
 	
