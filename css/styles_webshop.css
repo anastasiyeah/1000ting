@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  color: #3f3f3f; }
+
+.webshop {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: 100px;
+  font-family: "Work Sans", sans-serif; }
+  .webshop__banner {
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: 3; }
+  .webshop__header {
+    text-align: center;
+    color: white;
+    margin-top: -9%;
+    letter-spacing: 0.2em;
+    font-size: 35px; }
+  .webshop__subtext {
+    text-align: center;
+    color: white;
+    letter-spacing: 0.1em;
+    line-height: 1.8; }
+  .webshop__filter {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 8;
+    background-color: #f1b59f;
+    margin-right: 40px;
+    margin-top: -21px; }
+  .webshop__category {
+    display: block;
+    border: none;
+    background: none;
+    font-size: 20px;
+    font-family: "Work Sans", sans-serif;
+    margin: 4%;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black; }
+  .webshop__dropdown-closed {
+    display: none; }
+  .webshop__link {
+    display: block;
+    font-size: 17px;
+    line-height: 1.5;
+    margin-left: 4%; }
+  .webshop__products {
+    grid-column-start: 4;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 8; }
+
+.absolute {
+  position: absolute; }
+
+.relative {
+  position: relative; }
+
+.hover {
+  opacity: 0;
+  transition: opacity 0.3s ease; }
+
+.product-list {
+  overflow: hidden; }
+  .product-list li {
+    overflow: hidden;
+    float: left; }
+    .product-list li img {
+      padding-left: 31px;
+      padding-top: 20px;
+      padding-right: 25px; }
+    .product-list li .add-to-cart {
+      top: 40%;
+      left: 35%;
+      text-decoration: none;
+      font-family: head-font;
+      background: #6eb556;
+      color: white;
+      padding: 10px 25px;
+      font-size: 14px;
+      letter-spacing: 1px; }
+      .product-list li .add-to-cart:hover {
+        background: #4aa22c; }
+    .product-list li:hover .hover {
+      opacity: 1; }
+    .product-list li:hover img,
+    .product-list li:hover .new {
+      filter: blur(1px);
+      -o-filter: blur(1px);
+      -ms-filter: blur(1px);
+      -moz-filter: blur(1px);
+      -webkit-filter: blur(1px); }
+
+/*# sourceMappingURL=styles_webshop.css.map */
