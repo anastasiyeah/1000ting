@@ -19,6 +19,7 @@
      <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
      
+     <!-- Webshop picture banner -->
      <section class="webshop">
          <section class="webshop__banner">
              <img src="images/webshop_banner.jpg" width="100%">
@@ -58,20 +59,18 @@
              <ul class="product-list">
                  <li class="relative">
                      <img src="images/keramik1.png" width="50%" alt="">
-                     <h2>Keramik nr 1</h2>
+                     <h2>Unika Keramik <br> 250DKK</h2>
                      <a class="add-to-cart absolute hover" href="#">BUY NOW</a>
                  </li>
                  
                  <li class="relative">
                      <img src="images/keramik2.png" width="50%" alt="">
-                     <h2>Keramik nr 2</h2>
+                     <h2>Unika Keramik <br> 250DKK</h2>
                      <a class="add-to-cart absolute hover" href="#">BUY NOW</a>
                  </li>
              </ul>
          </section>
-         
      </section>
-     
 
      <script src="js/filter.js"></script>
 

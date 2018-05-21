@@ -50,7 +50,7 @@ a {
         background: none;
         font-size: 20px; 
         font-family: $font-family;
-        margin: 4%;
+        margin: 5%;
         
         border-bottom: 1px solid black;
         border-top: 1px solid black;
@@ -92,6 +92,11 @@ a {
   li {
     overflow: hidden;
     float: left;
+      
+      h2 {
+          font-family: $font-family;
+          margin-left: 10%;
+      }  
     
     .add-to-cart {
       top: 40%;
