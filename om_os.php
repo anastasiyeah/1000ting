@@ -24,7 +24,8 @@
 	<section class="about">
 		<article class="about__article">
 		<h1 class="about__h1">Meget mere end bare en butik</h1>
-		<p class="about__p">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
+		<p class="about__p">Med en lang historie i Jægergårdsgade, der strækker sig over mere end 25 år, har Vi igennem årene fået skabt et kreativt og hyggeligt miljø i butikken, der indbyder kunderne til, at gå på opdagelse i vores stemningsfyldte, specielle butik.
+			Det summende gadeliv, Jægergårdsgade har, er med til at skabe en helt specielt og hyggelig stemning, som gennemstrømmer butikken - <br> Vi er en del af Jægergårdsgade - Jægergårdsgade er en del af os	</p>
 		</article>
 	<img class="about__img" src="images/facade.jpg" alt="Picture of 1000Tings shop facade" >
 	</section>
