@@ -13,6 +13,8 @@
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+    
+    
 	
 </head>
  <body>
@@ -21,14 +23,30 @@
      <?php include "includes/header.php";?>
      
      <section class="contact">
-     <section class="contact_header">
-     <h1>KONTAKT OS</h1>
-     <p>Vi glæder os til at høre fra dig eller se dig i butikken.</p>
+     <section class="contact__header">
+     <h1 class="contact__headline">KONTAKT OS</h1>
+     <p class="contact__headtext">Vi glæder os til at høre fra dig eller se dig i butikken.</p>
         </section>
+      
+    <img class="contact__img1" src="images/frontviewshop.jpg" alt="Front view of the shop">
+    <img class="contact__img2" src="images/pillows.jpg" alt="Pillows in different colors">
+    <img class="contact__img3" src="images/blueflowers1.jpg" alt="Blue flowers from shop">
+    
+         <section class="contact__info">
+             <h2>ADRESSE</h2>
+             <p>1000TING<br>Jægergårdsgade 18-20<br>8000 Aarhus C</p>
+             <h2>KONTAKT</h2>
+             <p>+45 86 18 10 90<br>butik1000ting@gmail.com</p>
+             <h2>ÅBNINGSTIDER</h2>
+             <p>Mandag: 10.00-17.30<br>Tirsdag: 10.00-17.30<br>Onsdag: 10.00-17.30<br>Torsdag: 10.00-17.30<br>Fredag: 10.00-17.30<br>Lørdag: 10.00-14.00<br>Søndag: Lukket</p>
+             <h2>SOCIALE MEDIER</h2>
+             <ion-icon class="icon" name="facebook"></ion-icon> <ion-icon class="icon" name="instagram"></ion-icon>
+         </section>
          
          </section>
-     
-     
+    
+
+     <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
      
 </body>
 </html>
