@@ -11,7 +11,12 @@
         </ul>
      </nav>
      
-     <div class="borderline"></div>
+    <div class="borderline"></div>
 
+    <ion-icon class="shoppingcart" name="cart"></ion-icon>
+
+    <p class="available_languages">DA/EN</p>
+
+     
 <!-- HEADER END -->
     

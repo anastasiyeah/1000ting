@@ -9,7 +9,7 @@ a {
 .navigation {
   font-family: "Work Sans", sans-serif;
   margin-left: 5%;
-  margin-top: 5%;
+  margin-top: 3%;
   color: #f27830; }
   .navigation__name {
     font-size: 45px;
@@ -27,6 +27,21 @@ a {
 .borderline {
   margin-left: 5%;
   border-bottom: 3px solid #f27830;
-  width: 63%; }
+  width: 63%;
+  margin-bottom: 50px; }
+
+.shoppingcart {
+  font-size: 32px;
+  float: right;
+  margin-top: -6%;
+  margin-right: 7%;
+  color: #7e7e7e; }
+
+.available_languages {
+  font-family: "Work Sans", sans-serif;
+  color: #f27830;
+  float: right;
+  margin-right: 2%;
+  margin-top: -10%; }
 
 /*# sourceMappingURL=styles_header.css.map */

@@ -18,5 +18,9 @@
      <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
      
+     
+     <!-- Ionicons -->
+     <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
+     
 </body>
 </html>
