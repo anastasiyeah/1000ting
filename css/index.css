@@ -16,15 +16,15 @@ p {
 .products {
   float: right;
   background-color: #f2b6a0;
-  max-width: 30%;
+  max-width: 25%;
   padding: 4%;
-  margin: -190px 100px 0px 0px; }
+  margin: -100px 150px 0px 0px; }
   .products__description {
     line-height: 30px; }
 
 .webshoplink {
   float: right;
-  margin: 30px -460px 0px 0px;
+  margin: 140px -440px 0px 0px;
   background-color: #f27830;
   padding: 1%;
   text-decoration: none;
@@ -42,5 +42,8 @@ p {
   text-decoration: none; }
   .openinghours__h2 {
     padding-bottom: 2%; }
+
+#canvas {
+  margin-left: 50%; }
 
 /*# sourceMappingURL=index.css.map */

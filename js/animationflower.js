@@ -17,7 +17,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,802,455);
 
 // stage content:
 (lib.animationflower = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_5
 	this.shape = new cjs.Shape();
@@ -444,7 +444,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/gren.png?1526651631010", id:"gren"}
+		{src:"images/gren.png", id:"gren"}
 	],
 	preloads: []
 };

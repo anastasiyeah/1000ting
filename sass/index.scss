@@ -25,9 +25,9 @@ p {
 .products {
 	float: right;
 	background-color: #f2b6a0;
-	max-width: 30%;
-	padding: 4%;
-	margin: -190px 100px 0px 0px;
+    max-width: 25%;
+    padding: 4%;
+    margin: -100px 150px 0px 0px;
 	
 	&__description {
 		line-height: 30px;
@@ -37,7 +37,7 @@ p {
 
 .webshoplink {
 	float: right;
-	margin: 30px -460px 0px 0px;
+    margin: 140px -440px 0px 0px;
 	background-color: #f27830;
 	padding: 1%;
 	text-decoration: none;
@@ -64,5 +64,7 @@ p {
 	}
 }
 
-
+#canvas{
+    margin-left: 50%;
+}
 
