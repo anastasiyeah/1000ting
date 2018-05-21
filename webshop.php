@@ -26,6 +26,7 @@
              <p class="webshop__subtext">Cae nam fugiaepturem voles dunt magnis apicim quo</p>
          </section>
          
+         <!-- inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
          <section class="webshop__filter">
              <button class="webshop__category">KATEGORIER<i class="fa fa-caret-down"></i></button> <!-- ionicon -->
              <div class="webshop__dropdown-open">
@@ -51,7 +52,8 @@
                  <a href="#" class="webshop__link">Bungalow</a>
              </div>
          </section>
-         
+
+         <!-- taken from Grundfos project -->
          <section class="webshop__products">
              <ul class="product-list">
                  <li class="relative">
@@ -71,7 +73,6 @@
      </section>
      
 
-     
      <script src="js/filter.js"></script>
 
      <!-- Ionicons -->

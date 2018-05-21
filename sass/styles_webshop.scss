@@ -65,14 +65,11 @@ a {
         margin-left: 4%;
     }
     &__products {
-        //margin: 20px 30px;
-        //float: left;
-        //width: 98%;
-        
         grid-column-start: 4;
-        grid-column-end: 6;
+        grid-column-end: 8;
         grid-row-start: 3;
         grid-row-end: 8;
+        //display: block;
     }
 }
 
@@ -95,27 +92,20 @@ a {
   li {
     overflow: hidden;
     float: left;
-   // margin: 10px;
     
-    img {
-     padding-left: 31px;
-     padding-top: 20px;
-     padding-right: 25px
-    }
- 
     .add-to-cart {
       top: 40%;
-      left: 35%;
+      left: 15%;
       text-decoration: none;
-      font-family: head-font;
-      background: #6eb556;
+      font-family: $font-family;
+      background: #f1b59f;
       color: white;
-      padding: 10px 25px;
-      font-size: 14px;
+      padding: 7px 14px;
+      font-size: 12px;
       letter-spacing: 1px;
         
       &:hover {
-        background: #4aa22c;
+        background: #f27830;
       }
     }
     
@@ -137,6 +127,3 @@ a {
   }
   
 }
-
-
-
