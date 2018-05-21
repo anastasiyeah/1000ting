@@ -1,0 +1,85 @@
+$font-heading: 'Work Sans', sans-serif;
+
+/* ---- OVERALL STYLES ---- */
+
+body {
+	font-family: $font-heading;
+	color: #3f3f3f;
+}
+
+p {
+	font-weight: 300;
+}
+
+
+/* ---- VIDEO SECTION ---- */
+
+.video {
+	margin-top: 5%;
+	height: 400px;
+	background-color: antiquewhite;
+}
+
+/* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
+
+.products {
+	float: right;
+	background-color: #f2b6a0;
+    max-width: 25%;
+    padding: 4%;
+    margin: -100px 150px 0px 0px;
+	
+	&__description {
+		line-height: 30px;
+	}
+}
+
+
+.webshoplink {
+	float: right;
+    margin: 140px -440px 0px 0px;
+	background-color: #f27830;
+	padding: 1%;
+	text-decoration: none;
+	color: black;
+	}
+
+
+.webshoplink:hover {
+	background-color: #f59f6c;
+}
+	
+/* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
+	
+
+.openinghours {
+    margin-top: 50px;
+    margin-left: 14%;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+    font-size: 20px;
+    line-height: 33px;
+	
+	&__h2 {
+		padding-bottom: 2%;
+        color: #f2b6a0;
+	}
+}
+
+#canvas{
+    margin-left: 50%;
+    position: absolute; 
+    display: block;
+}
+
+#dom_overlay_container{
+    pointer-events:none; 
+    overflow:hidden; 
+    width:700px; 
+    height:400px; 
+    position: absolute; 
+    left: 0px; top: 0px; 
+    display: block;  
+}
+
