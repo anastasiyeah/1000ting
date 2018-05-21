@@ -1,11 +1,4 @@
 /* -- OVERALL STYLING -- */
-body {
-  font-family: "Work Sans", sans-serif;
-  color: #3f3f3f; }
-
-p {
-  font-weight: 300; }
-
 /* --  ABOUT SECTION ----  */
 .about {
   margin-top: 2%; }
@@ -13,7 +6,8 @@ p {
     max-width: 30%;
     padding: 4%;
     line-height: 30px;
-    margin-left: 5%; }
+    margin-left: 5%;
+    font-family: "Work Sans", sans-serif; }
   .about__h1 {
     font-size: 150%;
     padding-bottom: 1%; }
@@ -27,7 +21,8 @@ p {
 .openinghours {
   background-color: #f2b6a0;
   margin-top: -1%;
-  padding: 2% 0px 3% 9%; }
+  padding: 2% 0px 3% 9%;
+  font-family: "Work Sans", sans-serif; }
   .openinghours__address {
     padding-top: 2%; }
 

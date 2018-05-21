@@ -2,33 +2,21 @@ $font-heading: 'Work Sans', sans-serif;
 
 /* -- OVERALL STYLING -- */
 
-body {
-	font-family: $font-heading;
-	color: #3f3f3f;
-}
-
-p {
-	font-weight: 300;
-}
-
-
 /* --  ABOUT SECTION ----  */
 
 .about {
     margin-top: 2%;
-	
 	&__article {
 	max-width: 30%;
 	padding: 4%;
 	line-height: 30px;
 	margin-left: 5%;
+    font-family: $font-heading;
 	}
-	
 	&__h1 {
 		font-size: 150%;
 		padding-bottom: 1%;
 	}
-	
 	&__img {
 		max-width: 40%;
 		float: right;
@@ -44,7 +32,7 @@ p {
 	background-color: #f2b6a0;
 	margin-top: -1%;
 	padding: 2% 0px 3% 9%;
-	
+	font-family: $font-heading;
 	&__address {
 		padding-top: 2%;
 	}

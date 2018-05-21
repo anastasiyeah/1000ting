@@ -4,11 +4,6 @@ $font-heading: 'Work Sans', sans-serif;
 
 body {
 	font-family: $font-heading;
-	color: #3f3f3f;
-}
-
-p {
-	font-weight: 300;
 }
 
 
@@ -28,14 +23,14 @@ p {
     max-width: 25%;
     padding: 4%;
     margin: -100px 150px 0px 0px;
-	
+	font-family: $font-heading;
 	&__description {
 		line-height: 30px;
 	}
 }
 
-
 .webshoplink {
+    font-family: $font-heading;
 	float: right;
     margin: 140px -440px 0px 0px;
 	background-color: #f27830;
@@ -43,7 +38,6 @@ p {
 	text-decoration: none;
 	color: black;
 	}
-
 
 .webshoplink:hover {
 	background-color: #f59f6c;
@@ -53,6 +47,7 @@ p {
 	
 
 .openinghours {
+    font-family: $font-heading;
     margin-top: 50px;
     margin-left: 14%;
 	float: left;
