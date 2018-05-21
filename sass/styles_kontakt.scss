@@ -1,0 +1,15 @@
+$font-family: 'Work Sans', sans-serif;
+
+.contact{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-auto-rows: 100px;
+    
+    &__header{
+    background-color: #f1b59f;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    }
+}
