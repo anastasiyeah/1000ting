@@ -8,7 +8,9 @@
 
 <link href="css/om_os.css" type="text/css" rel="stylesheet"> 
 <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
-	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500" rel="stylesheet">
+    
+    <link href="css/reset.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
 	
 <title>1000 TING | OM OS</title>
 
@@ -44,7 +46,8 @@
 				8000 Århus C</address>		
 	</section>
 	
-	
+	   <!-- Ionicons -->
+     <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
     
 </body>
 	

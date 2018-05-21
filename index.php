@@ -8,7 +8,8 @@
 
 <link href="css/index.css" type="text/css" rel="stylesheet"> 
 <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
-<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500" rel="stylesheet">
+    <link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
 	
 <title>1000 TING | Jægergårdsgade 18-20, 8000 Århus C</title>
     
@@ -54,6 +55,9 @@
 		<div id="dom_overlay_container">
 		</div>
 	</div>
+    
+       <!-- Ionicons -->
+     <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
   
 </body>
 	

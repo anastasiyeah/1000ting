@@ -1,10 +1,6 @@
 /* ---- OVERALL STYLES ---- */
 body {
-  font-family: "Work Sans", sans-serif;
-  color: #3f3f3f; }
-
-p {
-  font-weight: 300; }
+  font-family: "Work Sans", sans-serif; }
 
 /* ---- VIDEO SECTION ---- */
 .video {
@@ -18,11 +14,13 @@ p {
   background-color: #f2b6a0;
   max-width: 25%;
   padding: 4%;
-  margin: -100px 150px 0px 0px; }
+  margin: -100px 150px 0px 0px;
+  font-family: "Work Sans", sans-serif; }
   .products__description {
     line-height: 30px; }
 
 .webshoplink {
+  font-family: "Work Sans", sans-serif;
   float: right;
   margin: 140px -440px 0px 0px;
   background-color: #f27830;
@@ -35,6 +33,7 @@ p {
 
 /* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
 .openinghours {
+  font-family: "Work Sans", sans-serif;
   margin-top: 50px;
   margin-left: 14%;
   float: left;
