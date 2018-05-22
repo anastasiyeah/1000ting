@@ -36,7 +36,7 @@ Vi er en del af Jægergårdsgade - Jægergårdsgade er en del af os</p>
 	
 	<!---- OPENING HOURS ---->		
 	<section class="visit">
-		<h1 class="visit__h4">En butik med sjæl</h1>
+		<h1 class="visit__h1">En butik med sjæl</h1>
 		<p class="visit__p">Vi har i løbet af årene haft en del unge ansatte, som alle har været med til, at skabe og kreere unikke varer til butikken. Vi sætter stor pris på kreativitet og bestræber os hele tiden på, at skabe et åbent og nysgerrigt miljø, som indbyder til nye og anderledes opdagelser</p>
 	</section>
 	
