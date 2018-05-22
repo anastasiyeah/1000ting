@@ -56,20 +56,30 @@
 
          <!-- taken from Grundfos project -->
          <section class="webshop__products">
-             <ul class="product-list">
-                 <li class="relative">
-                     <img src="images/keramik1.png" width="50%" alt="">
+             <ul class="webshop__list">
+                 <li class="webshop__items">
+                     <img src="images/keramik1.png" width="60%" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
-                     <a class="add-to-cart absolute hover" href="#">BUY NOW</a>
                  </li>
-                 
-                 <li class="relative">
-                     <img src="images/keramik2.png" width="50%" alt="">
+                 <li class="webshop__items">
+                     <img src="images/keramik2.png" width="60%" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
-                     <a class="add-to-cart absolute hover" href="#">BUY NOW</a>
+                 </li>
+                  <li class="webshop__items">
+                     <img src="images/keramik2.png" width="60%" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
+                 </li>
+                  <li class="webshop__items">
+                     <img src="images/keramik2.png" width="60%" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
+                 </li>
+                  <li class="webshop__items">
+                     <img src="images/keramik2.png" width="60%" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
                  </li>
              </ul>
          </section>
+         
      </section>
 
      <script src="js/filter.js"></script>
