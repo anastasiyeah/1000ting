@@ -25,13 +25,16 @@ p {
 .webshoplink {
   float: right;
   margin: 140px -440px 0px 0px;
-  background-color: #f27830;
+  background-color: #f1b59f;
   padding: 1%;
+  font-size: 12px;
+  letter-spacing: 1px;
   text-decoration: none;
-  color: black; }
+  color: white; }
 
 .webshoplink:hover {
-  background-color: #f59f6c; }
+  background-color: #f27830;
+  transition: opacity 0.3s ease; }
 
 /* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
 .openinghours {
