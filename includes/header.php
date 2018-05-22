@@ -1,7 +1,7 @@
 <!-- HEADER START -->
 
     <nav class="navigation">
-       <h2 class="navigation__name">1000TING</h2>
+       <h2 class="navigation__name">BUTIK 1000TING</h2>
     
         <ul class="navigation__line">
             <li class="navigation__link"><a href="index.php">HJEM</a></li>
