@@ -51,14 +51,13 @@
 		<p class="openinghours__p">Mandag-torsdag: 10:00 - 17:30 <br> Fredag: 10:00 - 18:00 <br> Lørdag: 10:00 - 14:00 <br>Søndag: lukket</p>
 		<!--- <address>Jægergårdsgade 18-20, 8000 Århus C</address> -->
 	</section>
-    
-    	<!--
+    	
 	<div id="animation_container" >
 		<canvas id="canvas"></canvas>
 		<div id="dom_overlay_container">
 		</div>
 	</div>
-    -->
+    
        <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
   
