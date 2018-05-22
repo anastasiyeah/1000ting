@@ -32,7 +32,6 @@ a {
     grid-column-end: 4;
     grid-row-start: 3;
     grid-row-end: 8;
-    background-color: #f1b59f;
     margin-right: 40px;
     margin-top: -21px; }
   .webshop__category {
@@ -53,9 +52,9 @@ a {
     margin-left: 4%; }
   .webshop__products {
     grid-column-start: 4;
-    grid-column-end: 8;
-    grid-row-start: 3;
-    grid-row-end: 8; }
+    display: table;
+    width: 1000px;
+    margin: auto; }
 
 .absolute {
   position: absolute; }

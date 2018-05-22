@@ -39,7 +39,7 @@ a {
         grid-column-end: 4;
         grid-row-start: 3;
         grid-row-end: 8;
-        background-color: #f1b59f;
+        //background-color: #f1b59f;
        
         margin-right: 40px;
         margin-top: -21px;
@@ -66,10 +66,12 @@ a {
     }
     &__products {
         grid-column-start: 4;
-        grid-column-end: 8;
-        grid-row-start: 3;
-        grid-row-end: 8;
+        //grid-column-end: 13;
+        //grid-row-start: 3;
         //display: block;
+        display: table;
+        width: 1000px;
+        margin: auto;
     }
 }
 
