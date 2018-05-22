@@ -55,11 +55,12 @@
          </section>
 
          <!-- taken from Grundfos project -->
-         <section class="webshop__products">
+         <section id="main" class="webshop__products">
              <ul class="webshop__list">
                  <li class="webshop__items">
                      <img src="images/keramik1.png" width="60%" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
+                     <span style="cursor:pointer" onclick="openNav()">info</span>
                  </li>
                  <li class="webshop__items">
                      <img src="images/keramik2.png" width="60%" alt="">
@@ -80,7 +81,30 @@
              </ul>
          </section>
          
+         <!--
+         
+         <div id="mySidenav" class="sidenav">
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+             <p>info about the product</p>
+        </div>
+         -->
+
+         
      </section>
+
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    document.getElementById("main").style.marginLeft= "0";
+    document.body.style.backgroundColor = "white";
+}
+</script>
 
      <script src="js/filter.js"></script>
 
