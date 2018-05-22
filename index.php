@@ -25,6 +25,7 @@
 <!-- HEADER INCLUDE -->
 	
      <?php include "includes/header.php";?>
+	<a href="om_os.php">om os</a>
 
 <!---- VIDEO ---->
 	

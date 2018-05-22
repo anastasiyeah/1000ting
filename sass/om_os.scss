@@ -40,12 +40,14 @@ p {
 
 /*  ---   OPENINGHOURS BOTTOM SECTION --- */
 
-.openinghours {
+.visit {
+	text-align: right;
 	background-color: #f2b6a0;
 	margin-top: -1%;
-	padding: 2% 0px 3% 9%;
+	padding: 5% 9% 3% 9%;
 	
-	&__address {
-		padding-top: 2%;
+	&__h1 {
+		color: white;
 	}
+
 }

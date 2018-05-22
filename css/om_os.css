@@ -24,11 +24,12 @@ p {
     margin-right: 9%; }
 
 /*  ---   OPENINGHOURS BOTTOM SECTION --- */
-.openinghours {
+.visit {
+  text-align: right;
   background-color: #f2b6a0;
   margin-top: -1%;
-  padding: 2% 0px 3% 9%; }
-  .openinghours__address {
-    padding-top: 2%; }
+  padding: 5% 9% 3% 9%; }
+  .visit__h1 {
+    color: white; }
 
 /*# sourceMappingURL=om_os.css.map */

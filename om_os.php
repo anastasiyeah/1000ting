@@ -19,7 +19,7 @@
 	   <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
 
-	<!---- OM OS  ---->
+	<!---- OM OS : HISTORY ---->
 
 	<section class="about">
 		<article class="about__article">
@@ -35,14 +35,9 @@ Vi er en del af Jægergårdsgade - Jægergårdsgade er en del af os</p>
 	
 	
 	<!---- OPENING HOURS ---->		
-	<section class="openinghours">
-		<h4 class="openinghours__h4">Åbningstider</h4>
-		<p class="openinghours__p">Mandag-fredag: kl.10.00 - 17.30 <br>
-		Lørdag: kl.10.00 - 14.00 <br>
-		Søndag: lukket</p>
-		
-		<address class="openinghours__address">Jægergårdsgade 18-20 <br>
-				8000 Århus C</address>		
+	<section class="visit">
+		<h1 class="visit__h4">En butik med sjæl</h1>
+		<p class="visit__p">Vi har i løbet af årene haft en del unge ansatte, som alle har været med til, at skabe og kreere unikke varer til butikken. Vi sætter stor pris på kreativitet og bestræber os hele tiden på, at skabe et åbent og nysgerrigt miljø, som indbyder til nye og anderledes opdagelser</p>
 	</section>
 	
 	
