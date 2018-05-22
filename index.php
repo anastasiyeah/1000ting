@@ -45,7 +45,7 @@
 	<section class="openinghours">
 		<h2 class="openinghours__h2" >Vi er mere end bare en butik!</h2>
 		<h4 class="openinghours__h4" >Kom forbi og se for dig selv</h4>
-		<p class="openinghours__p">Mandag-fredag: kl.10.00 - 17.30 <br>Lørdag: kl.10.00 - 14.00 <br>Søndag: lukket</p>
+		<p class="openinghours__p">Mandag-torsdag: 10:00 - 17:30 <br> Fredag: 10:00 - 18:00 <br> Lørdag: 10:00 - 14:00 <br>Søndag: lukket</p>
 		<!--- <address>Jægergårdsgade 18-20, 8000 Århus C</address> -->
 	</section>
     

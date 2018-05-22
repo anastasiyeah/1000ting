@@ -38,7 +38,7 @@
              <h2>KONTAKT</h2>
              <p>+45 86 18 10 90<br>butik1000ting@gmail.com</p>
              <h2>ÅBNINGSTIDER</h2>
-             <p>Mandag: 10.00-17.30<br>Tirsdag: 10.00-17.30<br>Onsdag: 10.00-17.30<br>Torsdag: 10.00-17.30<br>Fredag: 10.00-17.30<br>Lørdag: 10.00-14.00<br>Søndag: Lukket</p>
+             <p>Mandag: 10.00-17.30<br>Tirsdag: 10.00-17.30<br>Onsdag: 10.00-17.30<br>Torsdag: 10.00-17.30<br>Fredag: 10.00-18.00<br>Lørdag: 10.00-14.00<br>Søndag: Lukket</p>
              <h2>SOCIALE MEDIER</h2>
              <ion-icon class="icon" name="facebook"></ion-icon> <ion-icon class="icon" name="instagram"></ion-icon>
          </section>
