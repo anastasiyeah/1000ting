@@ -4,9 +4,13 @@ body {
 
 /* ---- VIDEO SECTION ---- */
 .video {
-  margin-top: 5%;
-  height: 400px;
-  background-color: antiquewhite; }
+  margin-top: -200px; }
+
+.container {
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  height: 400px; }
 
 /* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
 .products {

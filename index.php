@@ -28,11 +28,12 @@
 
 	<!---- VIDEO ---->
 	
-    
+    <div class="container">
     <video autoplay muted loop class="video">
-  <source src="video/Butik1000Ting.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
+    <source src="video/Butik1000Ting.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+    </div>
 	
 	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
 		<section class="products">
@@ -46,18 +47,18 @@
 	<!---- OPENING HOURS ---->		
 	<section class="openinghours">
 		<h2 class="openinghours__h2" >Vi er mere end bare en butik!</h2>
-		<h4 class="openinghours__h4" >Kom forbi og se for dig selv</h4>
+
 		<p class="openinghours__p">Mandag-torsdag: 10:00 - 17:30 <br> Fredag: 10:00 - 18:00 <br> Lørdag: 10:00 - 14:00 <br>Søndag: lukket</p>
 		<!--- <address>Jægergårdsgade 18-20, 8000 Århus C</address> -->
 	</section>
     
-    	
+    	<!--
 	<div id="animation_container" >
 		<canvas id="canvas"></canvas>
 		<div id="dom_overlay_container">
 		</div>
 	</div>
-    
+    -->
        <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
   
