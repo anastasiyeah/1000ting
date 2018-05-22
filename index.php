@@ -28,9 +28,11 @@
 
 	<!---- VIDEO ---->
 	
-	<section class="video">
-		<video></video>
-	</section>
+    
+    <video autoplay muted loop class="video">
+  <source src="video/Butik1000Ting.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 	
 	<!---- PRODUCTS AND LINK TO WEBSHOP ---->		
 		<section class="products">
