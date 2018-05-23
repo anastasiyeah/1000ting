@@ -20,18 +20,19 @@ a {
     width: 69%;
     border-bottom: 3px solid #f27830;
     margin-bottom: 50px; }
-  .navigation__link a {
-    margin-left: 7%; }
   .navigation__link {
     display: inline-block;
-    font-size: 20px; }
+    font-size: 20px;
+    margin-left: 7%; }
 
+/*
 .borderline {
-  margin-left: 5%;
-  border-bottom: 3px solid #f27830;
-  width: 63%;
-  margin-bottom: 50px; }
-
+    margin-left: 5%;
+    border-bottom: 3px solid #f27830;
+    width: 63%;
+    margin-bottom: 50px;
+}
+*/
 .shoppingcart {
   font-size: 32px;
   float: right;
