@@ -17,18 +17,20 @@ a {
     color: #f27830;
     &__name {
         display: inline-block;
-        margin-right: 7%;
         font-size: 40px;
     }
     &__line {
         display: inline-block;
         list-style-type: none;
-        width: 39%; // 70%
+        width: 75%; // 70%
+        border-bottom: 3px solid #f27830;
+        margin-bottom: 50px;
+        width: 69%;
     }
     &__link {
         display: inline-block;
         font-size: 20px;
-        margin-right: 7%;
+        margin-right: 6%;
     }
 }
 
