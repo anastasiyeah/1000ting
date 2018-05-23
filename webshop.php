@@ -62,63 +62,63 @@
                      <img class="webshop__image" src="images/keramik1.png" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
+                         <a href="#" class="webshop__buy">KØB</a>
+                     </div>
+                 </li>
+                 <li class="webshop__items">
+                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
+                     <div class="webshop__hover">
+                         <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik1.png" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
+                         <a href="#" class="webshop__buy">KØB</a>
+                     </div>
+                 </li>
+                 <li class="webshop__items">
+                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
+                     <div class="webshop__hover">
+                         <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik1.png" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
+                         <a href="#" class="webshop__buy">KØB</a>
+                     </div>
+                 </li>
+                 <li class="webshop__items">
+                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
+                     <div class="webshop__hover">
+                         <a href="#" class="webshop__buy">KØB</a>
+                     </div>
+                 </li>
+                 <li class="webshop__items">
+                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <h2>Unika Keramik <br> 250DKK</h2>
+                     <div class="webshop__hover">
+                         <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik1.png" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
+                         <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
+                     <img class="webshop__image" src="images/keramik2.png" alt="">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
-                     </div>
-                 </li>
-                 <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
-                     <h2>Unika Keramik <br> 250DKK</h2>
-                     <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
-                     </div>
-                 </li>
-                 <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
-                     <h2>Unika Keramik <br> 250DKK</h2>
-                     <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
-                     </div>
-                 </li>
-                 <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
-                     <h2>Unika Keramik <br> 250DKK</h2>
-                     <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
-                     </div>
-                 </li>
-                 <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
-                     <h2>Unika Keramik <br> 250DKK</h2>
-                     <div class="webshop__hover">
-                         <div class="webshop__buy">KØB</div>
+                         <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
              </ul>
