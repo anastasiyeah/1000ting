@@ -35,7 +35,7 @@ a {
     grid-row-end: 8;
     background-color: #f1b59f;
     margin-right: 40px;
-    margin-top: -21px; }
+    margin-top: -1px; }
   .webshop__category {
     display: block;
     border: none;
@@ -65,7 +65,7 @@ a {
     justify-content: space-around;
     margin-left: -50px; }
   .webshop__items {
-    width: 210px;
+    width: 275px;
     height: 250px;
     text-align: center; }
   .webshop__image {
