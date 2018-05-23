@@ -2,16 +2,17 @@ $font-heading: 'Work Sans', sans-serif;
 
 /* ---- OVERALL STYLES ---- */
 
-body {
-	font-family: $font-heading;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-
-/* ---- VIDEO SECTION ---- */
-
-.video {
-margin-top: -200px;
+a {
+    text-decoration: none;
+    color: #3f3f3f;
 }
+
+/* VIDEO SECTION */
 
 .container {
     width: 100%;
@@ -20,66 +21,65 @@ margin-top: -200px;
     height: 400px;
 }
 
-/* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
+.video {
+    margin-top: -200px;
+    //z-index: 1;
+    //position: relative;
+}
+
+/* Header text SECTION */
+
+.header {
+    font-family: $font-heading;
+    text-align: center;
+    margin: 2%;
+    &__text {
+        font-size: 40px;
+        color: #f2b6a0;
+    }
+}
+
+/* PRODUCTS AND WEBSHOPLINK SECTION */
 
 .products {
-	float: right;
+    font-family: $font-heading;
 	background-color: #f2b6a0;
-    max-width: 25%;
-    padding: 4%;
-    margin: -100px 150px 0px 0px;
-	font-family: $font-heading;
-	&__description {
-		line-height: 30px;
-	}
+    width: 350px;
+    padding: 2%;
+    margin-left: 12%;
+    margin-top: 4%;
+    &__description {
+        font-size: 16px;
+        line-height: 30px;
+    }
 }
 
-.webshoplink {
+.webshop {
     font-family: $font-heading;
-	float: right;
-    margin: 140px -440px 0px 0px;
-	background-color: #f27830;
-	padding: 1%;
-	text-decoration: none;
-	color: black;
-	}
-
-.webshoplink:hover {
-	background-color: #f59f6c;
-}
-	
-/* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
-	
-
-.openinghours {
-    font-family: $font-heading;
-    margin-top: 50px;
-    margin-left: 14%;
-	float: left;
-	text-align: center;
-	text-decoration: none;
-    font-size: 20px;
-    line-height: 33px;
-	
-	&__h2 {
-		padding-bottom: 2%;
-        color: #f2b6a0;
-	}
+    &__button {
+        background-color: #f27830;
+        padding: 14px;
+        margin-left: 26%;
+    }
+    &__button:hover {
+        background-color: #f27127;;
+    }
 }
 
-#canvas{
-    margin-left: 50%;
-    position: absolute; 
-    display: block;
+.info {
+   font-family: $font-heading;
+    float: right;
+    text-align: center;
+    margin-top: -240px;
+    margin-right: 250px; //150
+    margin-bottom: 10%;
+    &__header {
+        font-size: 30px;
+        color: #f27830;
+    }
+    &__text {
+        margin-top: 4%;
+        font-size: 20px;
+        line-height: 35px;
+    }
 }
-
-#dom_overlay_container{
-    pointer-events:none; 
-    overflow:hidden; 
-    width:700px; 
-    height:400px; 
-    position: absolute; 
-    left: 0px; top: 0px; 
-    display: block;  
-}
-
