@@ -15,7 +15,8 @@ a {
   height: 400px; }
 
 .video {
-  margin-top: -200px; }
+  margin-top: -200px;
+  width: 100%; }
 
 /* Header text SECTION */
 .header {
