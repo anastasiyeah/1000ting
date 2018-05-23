@@ -5,35 +5,53 @@ $font-heading: 'Work Sans', sans-serif;
 /* --  ABOUT SECTION ----  */
 
 .about {
-    margin-top: 2%;
+    padding-left: 4%;
+    padding-bottom: 4%;
 	&__article {
-	max-width: 30%;
-	padding: 4%;
-	line-height: 30px;
-	margin-left: 5%;
-    font-family: $font-heading;
-	}
-	&__h1 {
-		font-size: 150%;
+	   max-width: 30%;
+	   line-height: 30px;
+	   margin-left: 5%;
+        font-family: $font-heading;
+	   }
+	&__headline {
+		font-size: 28px;
 		padding-bottom: 1%;
 	}
 	&__img {
-		max-width: 40%;
-		float: right;
-		margin-top: -25%;
-		margin-right: 9%;
+        max-width: 33%;
+        float: right;
+        margin-top: -22%;
+        margin-right: 18%;
 	}
 }
 
+#animation_container{
+    margin-top: -21%;
+    margin-right: 2%;
+   
+}
 
-/*  ---   OPENINGHOURS BOTTOM SECTION --- */
+#canvas{
+    text-decoration: none;
+    width: 500px;
+}
+/*  ---   FOOTER GALLERY --- */
 
-.openinghours {
+.gallery {
 	background-color: #f2b6a0;
-	margin-top: -1%;
-	padding: 2% 0px 3% 9%;
-	font-family: $font-heading;
-	&__address {
-		padding-top: 2%;
-	}
+	padding: 3% 5% 3% 5%;
+    justify-content: center;
+    &__headline{
+        font-family: $font-heading;
+        text-align: center;
+        font-size: 28px;
+        margin-bottom: 2%;
+    }
+    &__img{
+        width: 350px;
+        display: inline-block;
+        padding-left:2%;
+    }
+	
+	
 }
