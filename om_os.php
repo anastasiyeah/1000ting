@@ -32,12 +32,12 @@
 		<p class="about__maintext">Med en lang historie i Jægergårdsgade, der strækker sig over mere end 25 år, har Vi igennem årene fået skabt et kreativt og hyggeligt miljø i butikken, der indbyder kunderne til, at gå på opdagelse i vores stemningsfyldte, specielle butik.
 			Det summende gadeliv, Jægergårdsgade har, er med til at skabe en helt specielt og hyggelig stemning, som gennemstrømmer butikken - <br> Vi er en del af Jægergårdsgade - Jægergårdsgade er en del af os	</p>
 		</article>
-	<img class="about__img" src="images/hangingplants.jpg" alt="Hanging plants Butik 1000Ting" >
+	<img class="about__img" src="images/plantetplants.png" alt="Hanging plants Butik 1000Ting" >
 	</section>
 	
     <!-- Flower animation -->
 	<div id="animation_container" >
-		<canvas id="canvas" width="500px"></canvas>
+		<canvas id="canvas"></canvas>
 		<div id="dom_overlay_container">
 		</div>
 	</div>
