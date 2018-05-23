@@ -11,7 +11,7 @@ $font-heading: 'Work Sans', sans-serif;
 	   max-width: 30%;
 	   line-height: 30px;
 	   margin-left: 5%;
-        font-family: $font-heading;
+       font-family: $font-heading;
 	   }
 	&__headline {
 		font-size: 28px;
@@ -49,7 +49,8 @@ $font-heading: 'Work Sans', sans-serif;
     &__img{
         width: 350px;
         display: inline-block;
-        padding-left:4%;
+        margin-left:4%;
+        box-shadow: 0 0px 35px rgba(0, 0, 0, 0.4);
     }
 	
 	

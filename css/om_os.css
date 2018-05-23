@@ -38,6 +38,7 @@
   .gallery__img {
     width: 350px;
     display: inline-block;
-    padding-left: 4%; }
+    margin-left: 4%;
+    box-shadow: 0 0px 35px rgba(0, 0, 0, 0.4); }
 
 /*# sourceMappingURL=om_os.css.map */
