@@ -16,15 +16,16 @@ a {
     grid-column-end: 13;
     grid-row-start: 1;
     grid-row-end: 3; }
+  .webshop__banner-image {
+    width: 100%;
+    opacity: 0.5; }
   .webshop__header {
     text-align: center;
-    color: white;
     margin-top: -9%;
     letter-spacing: 0.2em;
     font-size: 35px; }
   .webshop__subtext {
     text-align: center;
-    color: white;
     letter-spacing: 0.1em;
     line-height: 1.8; }
   .webshop__filter {
@@ -51,16 +52,24 @@ a {
     font-size: 17px;
     line-height: 1.5;
     margin-left: 4%; }
+  .webshop__products {
+    grid-column-start: 4;
+    grid-column-end: 13;
+    grid-row-start: 3;
+    grid-row-end: 8; }
   .webshop__list {
     padding: 0;
     list-style: none;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around; }
+    justify-content: space-around;
+    margin-left: -50px; }
   .webshop__items {
-    width: 200px;
+    width: 210px;
     height: 250px;
     text-align: center; }
+  .webshop__image {
+    width: 60%; }
 
 /*
 .sidenav {
