@@ -1,3 +1,7 @@
+:root {
+  --buttonBlack: black;
+  --buttonOrange: #f27830; }
+
 .contact {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -47,8 +51,7 @@
     grid-row-end: 9;
     margin-top: -50px;
     background-color: #f1b59f;
-    margin-bottom: -14px; }
-  .contact__info {
+    margin-bottom: -14px;
     font-family: "Work Sans", sans-serif; }
   .contact__info h2 {
     color: #f27830;
@@ -62,7 +65,14 @@
     line-height: 26px;
     margin-top: 5px; }
 
-.icon {
-  font-size: 35px; }
+.fa {
+  font-size: 44px !important;
+  margin-left: 41px;
+  margin-top: 12px;
+  color: var --buttonBlack; }
+
+.fa:hover {
+  --buttonBlack: #f27830;
+  color: var(--buttonBlack); }
 
 /*# sourceMappingURL=styles_kontakt.css.map */
