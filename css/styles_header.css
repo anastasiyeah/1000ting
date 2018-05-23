@@ -13,18 +13,16 @@ a {
   color: #f27830; }
   .navigation__name {
     display: inline-block;
+    margin-right: 7%;
     font-size: 40px; }
   .navigation__line {
     display: inline-block;
     list-style-type: none;
-    width: 75%;
-    border-bottom: 3px solid #f27830;
-    margin-bottom: 50px;
-    width: 69%; }
+    width: 75%; }
   .navigation__link {
     display: inline-block;
     font-size: 20px;
-    margin-right: 6%; }
+    margin-right: 7%; }
 
 .borderline {
   margin-left: 5%;
