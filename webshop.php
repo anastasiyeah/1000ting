@@ -24,8 +24,8 @@
      <section class="webshop">
          <section class="webshop__banner">
              <img class="webshop__banner-image" src="images/webshop_banner.jpg">
-             <h1 class="webshop__header">1000TING'S WEBSHOP</h1>
-             <p class="webshop__subtext">Cae nam fugiaepturem voles dunt magnis apicim quo</p>
+             <h1 class="webshop__header">BUTIK 1000TING'S WEBSHOP</h1>
+             <p class="webshop__subtext">Gå på opdagelse i et univers af dekorationsgenstande</p>
          </section>
          
          <!-- inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
