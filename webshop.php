@@ -114,13 +114,6 @@
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
-                 <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik2.png" alt="">
-                     <h2>Unika Keramik <br> 250DKK</h2>
-                     <div class="webshop__hover">
-                         <a href="#" class="webshop__buy">KØB</a>
-                     </div>
-                 </li>
              </ul>
          </section>
          
