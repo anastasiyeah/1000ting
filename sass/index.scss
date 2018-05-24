@@ -84,3 +84,37 @@ a {
         line-height: 35px;
     }
 }
+
+/* news */
+
+.news {
+	background-color: #f2b6a0;
+	padding: 3% 5% 3% 5%;
+    margin-top: 5%;
+    &__header{
+        font-family: $font-heading;
+        text-align: center;
+        font-size: 28px;
+        margin-bottom: 3%;
+    }
+    &__image {
+        width: 500px;
+        margin-left: 4%;
+        box-shadow: 0 0px 35px rgba(0, 0, 0, 0.4);
+        margin-bottom: 4%;
+    }
+    &__article {
+        column-count: 3;
+        font-family: $font-heading;
+        line-height: 30px;
+    }
+    &__headline {
+        font-size: 20px;
+        margin-left: 19px;
+        font-weight: 600;
+    }
+    &__text {
+        padding: 0px 20px 20px 20px;
+    }
+	
+}

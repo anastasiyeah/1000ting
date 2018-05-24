@@ -10,7 +10,7 @@
     <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
     <link href="css/index.css" type="text/css" rel="stylesheet"> 
     
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
 	
     <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
     <script src="js/animationflower.js"></script>
@@ -49,6 +49,15 @@
         <h2 class="info__header">Åbningstider</h2>
         <p class="info__text">Mandag-torsdag: 10:00 - 17:30 <br> Fredag: 10:00 - 18:00 <br> Lørdag: 10:00 - 14:00 <br> Søndag: lukket</p>
     </section>
+    
+    <section class="news">
+        <h1 class="news__header">NYHEDER</h1>
+        <article class="news__article">
+            <img class="news__image" src="images/markedsdag.jpg" alt="Markedsdag på Jægergårdsgade">
+            <h1 class="news__headline">MARKEDSDAG</h1>
+            <p class="news__text">Kom og vær med når Århus’ hyggeligste og sjoveste gade holder markedsdag og gadefest 5. maj. Vi lukker gaden for bilkørsel, og fylder i stedet op med blandt andet streetfood, udendørs servering & loppemarked fra kl. 10.00 - 22.00. Det kan du opleve: Schweizerbageriet gi’r GRATIS rundstykker til de først 100. Mikkeller Running Club (3/6 km) - GRATIS øl til alle løbere. Den Jyske Pigegarde og meget mere! For børn: Tombola, GRATIS ansigtsmaling, snacks over bål, vind-en-pose-økologisk-slik-konkurrence sponseret af Ren Kost, Netto og Super Brugsen. <br><br> Program:<br> - kl. 10-22: Street Food <br> - kl. 10: gratis rundstykker v/ Schweizerbageriet (Jægergårdsgade 88) <br> - kl. 11: Mikkeller Running Club <br> - kl. 12-13: Jysk Pigegarde spiller i gaden</p>
+        </article>
+	</section>
     
        <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
