@@ -54,15 +54,29 @@
          </section>
 
          <!-- products section -->
-         <section id="main" class="webshop__products">
+         <section class="webshop__products">
              <ul class="webshop__list">
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <a href="#" class="webshop__buy">KØB</a>
+                         <a href="#" class="webshop__buy" id="modalBtn">KØB</a>
                      </div>
                  </li>
+            
+                <!-- The Modal -->
+                <section class="webshop__modal" id="modal">
+                  <!-- Modal content -->
+                  <article class="webshop__modal-content">
+                      <ion-icon class="modal-close" name="close"></ion-icon>
+                      <img class="webahop__product-image" src="images/keramik1.png" alt="" width="40%">
+                      <h1 class="webshop__modal-headline">BUNGALOW</h1>
+                      <h2 class="webshop__modal-name">Keramik vase H 20cm misty grøn</h2>
+                      <h2 class="webshop__modal-price">250,00 kr.</h2>
+                      <p class="webhsop__modal-description">Vase af keramik til til f.eks. blomster. Fås i flere farver Bungalow. Tåler ikke maskinopvask.</p>
+                  </article>
+                </section>
+                 
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
@@ -117,21 +131,8 @@
          
      </section>
 
-     <!--
-    <script>
-        function openNav() {
-            document.getElementById("mySidenav").style.width = "250px";
-            document.getElementById("main").style.marginLeft = "250px";
-            document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
-    }
-
-        function closeNav() {
-            document.getElementById("mySidenav").style.width = "0";
-            document.getElementById("main").style.marginLeft= "0";
-            document.body.style.backgroundColor = "white";
-    }
-    </script>
--->
+      <!-- js script for modal --> 
+     <script src="js/cartmodal.js"></script>
 
      <!-- js script for sidebar nav --> 
      <script src="js/filter.js"></script>
