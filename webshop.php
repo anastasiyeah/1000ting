@@ -11,7 +11,7 @@
     
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
 
 	
 </head>
