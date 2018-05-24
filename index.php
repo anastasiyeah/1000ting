@@ -8,7 +8,7 @@
 
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
-    <link href="css/index.css" type="text/css" rel="stylesheet"> 
+    <link href="css/styles_index.css" type="text/css" rel="stylesheet"> 
     
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
 	

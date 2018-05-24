@@ -134,14 +134,13 @@
                  </li>
              </ul>
          </section>
-         
      </section>
 
       <!-- js script for modal --> 
      <script src="js/cartmodal.js"></script>
 
      <!-- js script for sidebar nav --> 
-     <script src="js/filter.js"></script>
+     <script src="js/sidebar_nav.js"></script>
 
      <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
