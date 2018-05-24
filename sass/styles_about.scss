@@ -1,0 +1,57 @@
+$font-heading: 'Work Sans', sans-serif;
+
+/* -- OVERALL STYLING -- */
+
+/* --  ABOUT SECTION ----  */
+
+.about {
+    padding-left: 4%;
+    padding-bottom: 4%;
+	&__article {
+	   max-width: 30%;
+	   line-height: 30px;
+	   margin-left: 5%;
+       font-family: $font-heading;
+	   }
+	&__headline {
+		font-size: 28px;
+		padding-bottom: 1%;
+	}
+	&__img {
+        max-width: 33%;
+        float: right;
+        margin-top: -22%;
+        margin-right: 14%;
+	}
+}
+
+
+#canvas{
+    text-decoration: none;
+    width: 500px!important;
+    height: 286px!important;
+    margin-left: 19%;
+    margin-top: -30%;
+}
+/*  ---   FOOTER GALLERY --- */
+
+.gallery {
+	background-color: #f2b6a0;
+	padding: 3% 5% 3% 5%;
+    text-align: center;
+    margin-top: -20%;
+    &__headline{
+        font-family: $font-heading;
+        text-align: center;
+        font-size: 28px;
+        margin-bottom: 3%;
+    }
+    &__img{
+        width: 350px;
+        display: inline-block;
+        margin-left:4%;
+        box-shadow: 0 0px 35px rgba(0, 0, 0, 0.4);
+    }
+	
+	
+}
