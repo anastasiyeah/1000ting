@@ -108,16 +108,39 @@ a {
     /* Full height */
     overflow: auto;
     /* Enable scroll if needed */
-    background-color: black;
+    background-color: #f1b59f;
     /* Fallback color */
-    background-color: rgba(0, 0, 0, 0.4);
-    /* Black w/ opacity */ }
+    background-color: rgba(241, 181, 159, 0.2);
+    /* Black w/ opacity */
+    font-family: "Work Sans", sans-serif; }
   .webshop__modal-content {
     background-color: #fefefe;
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 70%; }
+    width: 70%;
+    column-count: 2;
+    border: none; }
+  .webshop__modal-product {
+    padding: 20px 0px 15px 0px;
+    line-height: 40px; }
+  .webshop__modal-headline {
+    font-size: 35px;
+    font-weight: 600; }
+  .webshop__modal-image {
+    width: 80%; }
+  .webshop__modal-name {
+    font-size: 30px; }
+  .webshop__modal-price {
+    font-size: 25px; }
+  .webshop__modal-description {
+    font-size: 20px;
+    margin-bottom: 20px; }
+  .webshop__modal-buy {
+    background-color: #f1b59f;
+    color: black;
+    font-size: 16px;
+    padding: 13px 25px; }
 
 /* hover button inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
 .webshop__items:hover .webshop__image {
@@ -128,10 +151,11 @@ a {
 
 /* modal close button */
 .modal-close {
-  color: #aaaaaa;
+  color: #f1b59f;
   float: right;
   font-size: 28px;
-  font-weight: bold; }
+  margin-top: -25px;
+  cursor: pointer; }
 
 .close:hover,
 .close:focus {

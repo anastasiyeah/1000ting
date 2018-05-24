@@ -50,6 +50,8 @@
               <button class="webshop__category">MÆRKER</button>
              <div class="webshop__dropdown-closed">
                  <a href="#" class="webshop__link">Bungalow</a>
+                 <a href="#" class="webshop__link">Maileg</a>
+                 <a href="#" class="webshop__link">Aspegren</a>
              </div>
          </section>
 
@@ -60,7 +62,7 @@
                      <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <a href="#" class="webshop__buy" id="modalBtn">KØB</a>
+                         <a href="#" class="webshop__buy" id="modalBtn">TILFØJ</a>
                      </div>
                  </li>
             
@@ -68,15 +70,19 @@
                 <section class="webshop__modal" id="modal">
                   <!-- Modal content -->
                   <article class="webshop__modal-content">
-                      <ion-icon class="modal-close" name="close"></ion-icon>
-                      <img class="webahop__product-image" src="images/keramik1.png" alt="" width="40%">
-                      <h1 class="webshop__modal-headline">BUNGALOW</h1>
-                      <h2 class="webshop__modal-name">Keramik vase H 20cm misty grøn</h2>
-                      <h2 class="webshop__modal-price">250,00 kr.</h2>
-                      <p class="webhsop__modal-description">Vase af keramik til til f.eks. blomster. Fås i flere farver Bungalow. Tåler ikke maskinopvask.</p>
+                  
+                      <img class="webshop__modal-image" src="images/keramik1.png" alt="Bungalow keramik vase 20cm">
+                      <article class="webshop__modal-product">
+                        <ion-icon class="modal-close" name="close"></ion-icon>
+                        <h1 class="webshop__modal-headline">BUNGALOW</h1>
+                        <h2 class="webshop__modal-name">Keramik vase H 20 cm</h2>
+                        <h2 class="webshop__modal-price">250,00 kr.</h2>
+                        <p class="webshop__modal-description">Misty grøn Bungalow vase af keramik til til f.eks. blomster. Fås i flere farver. Tåler ikke maskinopvask.</p>
+                         <a href="#" class="webshop__modal-buy">LÆG I KURV</a>
+                    </article>
                   </article>
                 </section>
-                 
+                
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
@@ -88,7 +94,7 @@
                      <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
-                         <a href="#" class="webshop__buy">KØB</a>
+                         <a href="#" class="webshop__buy modalBtn">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
