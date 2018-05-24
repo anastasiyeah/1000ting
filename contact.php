@@ -8,7 +8,7 @@
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
     
-    <link href="css/styles_kontakt.css" rel="stylesheet" type="text/css">
+    <link href="css/styles_contact.css" rel="stylesheet" type="text/css">
     
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     

@@ -1,0 +1,44 @@
+/* -- OVERALL STYLING -- */
+/* --  ABOUT SECTION ----  */
+.about {
+  padding-left: 4%;
+  padding-bottom: 4%; }
+  .about__article {
+    max-width: 30%;
+    line-height: 30px;
+    margin-left: 5%;
+    font-family: "Work Sans", sans-serif; }
+  .about__headline {
+    font-size: 28px;
+    padding-bottom: 1%; }
+  .about__img {
+    max-width: 33%;
+    float: right;
+    margin-top: -22%;
+    margin-right: 14%; }
+
+#canvas {
+  text-decoration: none;
+  width: 500px !important;
+  height: 286px !important;
+  margin-left: 19%;
+  margin-top: -30%; }
+
+/*  ---   FOOTER GALLERY --- */
+.gallery {
+  background-color: #f2b6a0;
+  padding: 3% 5% 3% 5%;
+  text-align: center;
+  margin-top: -20%; }
+  .gallery__headline {
+    font-family: "Work Sans", sans-serif;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 3%; }
+  .gallery__img {
+    width: 350px;
+    display: inline-block;
+    margin-left: 4%;
+    box-shadow: 0 0px 35px rgba(0, 0, 0, 0.4); }
+
+/*# sourceMappingURL=styles_about.css.map */

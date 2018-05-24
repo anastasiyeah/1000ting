@@ -1,0 +1,67 @@
+/* ---- OVERALL STYLES ---- */
+body {
+  font-family: "Work Sans", sans-serif; }
+
+/* ---- VIDEO SECTION ---- */
+.video {
+  margin-top: -200px; }
+
+.container {
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  height: 400px; }
+
+/* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
+.products {
+  float: right;
+  background-color: #f2b6a0;
+  max-width: 25%;
+  padding: 4%;
+  margin: -100px 150px 0px 0px;
+  font-family: "Work Sans", sans-serif; }
+  .products__description {
+    line-height: 30px; }
+
+.webshoplink {
+  font-family: "Work Sans", sans-serif;
+  float: right;
+  margin: 140px -440px 0px 0px;
+  background-color: #f27830;
+  padding: 1%;
+  text-decoration: none;
+  color: black; }
+
+.webshoplink:hover {
+  background-color: #f59f6c; }
+
+/* ---- PRODUCTS AND WEBSHOPLINK SECTION ---- */
+.openinghours {
+  font-family: "Work Sans", sans-serif;
+  margin-top: 50px;
+  margin-left: 14%;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 33px; }
+  .openinghours__h2 {
+    padding-bottom: 2%;
+    color: #f2b6a0; }
+
+#canvas {
+  margin-left: 50%;
+  position: absolute;
+  display: block; }
+
+#dom_overlay_container {
+  pointer-events: none;
+  overflow: hidden;
+  width: 700px;
+  height: 400px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: block; }
+
+/*# sourceMappingURL=styles_index.css.map */

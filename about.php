@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <meta name="description" content="">
 
-<link href="css/om_os.css" type="text/css" rel="stylesheet"> 
+<link href="css/styles_about.css" type="text/css" rel="stylesheet"> 
 <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
     
     <link href="css/reset.css" rel="stylesheet" type="text/css">

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <meta name="description" content="">
 
-<link href="css/index.css" type="text/css" rel="stylesheet"> 
+<link href="css/styles_index.css" type="text/css" rel="stylesheet"> 
 <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
     <link href="css/reset.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
