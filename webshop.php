@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- mobile -->
 <title>BUTIK 1000TING | Jægergårdsgade 18-20, 8000 Århus C</title>
-<meta name="description" content="">
+<meta name="description" content="Butik 1000Ting's webshop - gå på opdagelse i et univers af dekorationsgenstande.">
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
     <link href="css/styles_webshop.css" rel="stylesheet" type="text/css">
@@ -12,8 +12,6 @@
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
-
-	
 </head>
  <body>
      
@@ -28,9 +26,9 @@
              <p class="webshop__subtext">Gå på opdagelse i et univers af dekorationsgenstande</p>
          </section>
          
-         <!-- inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
+         <!-- sidebar nav inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
          <section class="webshop__filter">
-             <button class="webshop__category">KATEGORIER<i class="fa fa-caret-down"></i></button> <!-- ionicon -->
+             <button class="webshop__category">KATEGORIER</button>
              <div class="webshop__dropdown-open">
                  <a href="#" class="webshop__link">Børn</a>
                  <a href="#" class="webshop__link">Delikatesser</a>
@@ -40,11 +38,11 @@
              </div>
              <button class="webshop__category">PRODUKTER</button>
              <div class="webshop__dropdown-open">
-                 <a href="#" class="webshop__link">Billeder & plakater</a>
+                 <a href="#" class="webshop__link">Billeder &amp; plakater</a>
                  <a href="#" class="webshop__link">Gulvtæpper</a>
                  <a href="#" class="webshop__link">Lysestager</a>
                  <a href="#" class="webshop__link">Opbevaring</a>
-                 <a href="#" class="webshop__link">Plaider & tæpper</a>
+                 <a href="#" class="webshop__link">Plaider &amp; tæpper</a>
                  <a href="#" class="webshop__link">Sofa- og pyntepuder</a>
                  <a href="#" class="webshop__link">Dekoration</a>
                  <a href="#" class="webshop__link">Vaser</a>
@@ -55,60 +53,60 @@
              </div>
          </section>
 
-         <!-- products -->
+         <!-- products section -->
          <section id="main" class="webshop__products">
              <ul class="webshop__list">
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
+                     <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
+                     <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
+                     <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik2.png" alt="">
+                     <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
                      </div>
                  </li>
                  <li class="webshop__items">
-                     <img class="webshop__image" src="images/keramik1.png" alt="">
+                     <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
                      <div class="webshop__hover">
                          <a href="#" class="webshop__buy">KØB</a>
@@ -116,16 +114,6 @@
                  </li>
              </ul>
          </section>
-         
-         
-         <!--
-         
-         <div id="mySidenav" class="sidenav">
-          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-             <p>info about the product</p>
-        </div>
-         -->
-
          
      </section>
 
@@ -145,6 +133,7 @@
     </script>
 -->
 
+     <!-- js script for sidebar nav --> 
      <script src="js/filter.js"></script>
 
      <!-- Ionicons -->
