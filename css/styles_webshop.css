@@ -29,7 +29,8 @@ a {
   .webshop__subtext {
     text-align: center;
     letter-spacing: 0.1em;
-    line-height: 1.8; }
+    line-height: 1.8;
+    font-weight: 600; }
   .webshop__filter {
     grid-column-start: 1;
     grid-column-end: 4;
