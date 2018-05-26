@@ -1,9 +1,9 @@
 <!doctype html>
-<html>
+<html lang="da">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- mobile -->
-<title>1000 TING | Jægergårdsgade 18-20, 8000 Århus C</title>
+<title>BUTIK 1000TING | KONTAKT</title>
 <meta name="description" content="">
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
@@ -22,7 +22,7 @@
      <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
      
-     <section class="contact">
+     <article class="contact">
      <section class="contact__header">
      <h1 class="contact__headline">KONTAKT OS</h1>
      <p class="contact__headtext">Vi glæder os til at høre fra dig eller se dig i butikken.</p>
@@ -43,7 +43,7 @@
              <a href="https://www.facebook.com/1000-TING-Jægergårdsgade-18-20-8000-Århus-C-160721700633324/" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true" ></i></a> <a href="https://www.instagram.com/butik1000ting/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
          </section>
          
-         </section>
+         </article>
     
 
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
