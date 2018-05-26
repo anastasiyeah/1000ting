@@ -1,9 +1,9 @@
 <!doctype html>
-<html>
+<html lang="da">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- mobile -->
-<title>BUTIK 1000TING | Jægergårdsgade 18-20, 8000 Århus C</title>
+<title>BUTIK 1000TING | WEBSHOP</title>
 <meta name="description" content="Butik 1000Ting's webshop - gå på opdagelse i et univers af dekorationsgenstande.">
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
@@ -19,15 +19,15 @@
      <?php include "includes/header.php";?>
      
      <!-- Webshop picture banner -->
-     <section class="webshop">
+     <article class="webshop">
          <section class="webshop__banner">
-             <img class="webshop__banner-image" src="images/webshop_banner.jpg">
+             <img class="webshop__banner-image" src="images/webshop_banner.jpg" alt="Butik 1000Ting's webshop banner">
              <h1 class="webshop__header">BUTIK 1000TING'S WEBSHOP</h1>
              <p class="webshop__subtext">Gå på opdagelse i et univers af dekorationsgenstande</p>
          </section>
          
          <!-- sidebar nav inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
-         <section class="webshop__filter">
+         <div class="webshop__filter">
              <button class="webshop__category">KATEGORIER</button>
              <div class="webshop__dropdown-open">
                  <a href="#" class="webshop__link">Børn</a>
@@ -53,7 +53,7 @@
                  <a href="#" class="webshop__link">Maileg</a>
                  <a href="#" class="webshop__link">Aspegren</a>
              </div>
-         </section>
+         </div>
 
          <!-- products section -->
          <section class="webshop__products">
@@ -67,21 +67,20 @@
                  </li>
             
                 <!-- The Modal -->
-                <section class="webshop__modal" id="modal">
+                <nav class="webshop__modal" id="modal">
                   <!-- Modal content -->
-                  <article class="webshop__modal-content">
-                  
+                  <aside class="webshop__modal-content">
                       <img class="webshop__modal-image" src="images/keramik1.png" alt="Bungalow keramik vase 20cm">
-                      <article class="webshop__modal-product">
+                      <aside class="webshop__modal-product">
                         <ion-icon class="modal-close" name="close"></ion-icon>
-                        <h1 class="webshop__modal-headline">BUNGALOW</h1>
+                        <h2 class="webshop__modal-headline">BUNGALOW</h2>
                         <h2 class="webshop__modal-name">Keramik vase H 20 cm</h2>
                         <h2 class="webshop__modal-price">250,00 kr.</h2>
                         <p class="webshop__modal-description">Misty grøn Bungalow vase af keramik til til f.eks. blomster. Fås i flere farver. Tåler ikke maskinopvask.</p>
                          <a href="#" class="webshop__modal-buy">LÆG I KURV</a>
-                    </article>
-                  </article>
-                </section>
+                    </aside>
+                  </aside>
+                </nav>
                 
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik2.png" alt="Butik 1000Ting's product image">
@@ -134,7 +133,7 @@
                  </li>
              </ul>
          </section>
-     </section>
+     </article>
 
       <!-- js script for modal --> 
      <script src="js/cartmodal.js"></script>

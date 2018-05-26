@@ -1,9 +1,9 @@
 <!doctype html>
-<html>
-	
+<html lang="da">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BUTIK 1000TING | OM OS</title>
 <meta name="description" content="">
 
 <link href="css/styles_about.css" type="text/css" rel="stylesheet"> 
@@ -11,8 +11,6 @@
     
     <link href="css/reset.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
-	
-<title>1000 TING | OM OS</title>
 
     <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
     <script src="js/animationflower.js"></script>
@@ -24,7 +22,7 @@
 	   <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
 
-	<!---- OM OS  ---->
+	<!-- OM OS  -->
 
 	<section class="about">
 		<article class="about__article">
@@ -43,7 +41,7 @@
 	</div>
 	
 	
-	<!---- Footer Gallery ---->		
+	<!-- Footer Gallery -->		
 	<section class="gallery">
         <h1 class="gallery__headline">KOM IND OG MÆRK STEMNINGEN</h1>
 		<img class="gallery__img" src="images/buddha.jpg" alt="Buddha decoration">

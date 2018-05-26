@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="da">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,16 +22,16 @@
 	   <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
 
-	<!---- VIDEO ---->
+	<!-- VIDEO -->
 	
-    <section class="container">
+    <aside class="container">
         <video class="video" autoplay muted loop> 
             <source src="video/Butik1000Ting.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
         </video>
-    </section>
+    </aside>
 
-	<!---- PRODUCTS AND LINK TO WEBSHOP ---->	
+	<!-- PRODUCTS AND LINK TO WEBSHOP -->	
     
     <section class="header">
         <h1 class="header__text">Vi er mere end bare en butik!</h1>
@@ -41,9 +41,9 @@
         <p class="products__description">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
     </section>
     
-    <section class="webshop">
+    <div class="webshop">
         <a href="webshop.php" class="webshop__button"> GÅ TIL WEBSHOP</a>
-    </section>
+    </div>
     
     <section class="info">
         <h2 class="info__header">Åbningstider</h2>
@@ -54,7 +54,7 @@
         <h1 class="news__header">NYHEDER</h1>
         <article class="news__article">
             <img class="news__image" src="images/markedsdag.jpg" alt="Markedsdag på Jægergårdsgade">
-            <h1 class="news__headline">MARKEDSDAG</h1>
+            <h2 class="news__headline">MARKEDSDAG</h2>
             <p class="news__text">Kom og vær med når Århus’ hyggeligste og sjoveste gade holder markedsdag og gadefest 5. maj. Vi lukker gaden for bilkørsel, og fylder i stedet op med blandt andet streetfood, udendørs servering & loppemarked fra kl. 10.00 - 22.00. Det kan du opleve: Schweizerbageriet gi’r GRATIS rundstykker til de først 100. Mikkeller Running Club (3/6 km) - GRATIS øl til alle løbere. Den Jyske Pigegarde og meget mere! For børn: Tombola, GRATIS ansigtsmaling, snacks over bål, vind-en-pose-økologisk-slik-konkurrence sponseret af Ren Kost, Netto og Super Brugsen. <br><br> Program:<br> - kl. 10-22: Street Food <br> - kl. 10: gratis rundstykker v/ Schweizerbageriet (Jægergårdsgade 88) <br> - kl. 11: Mikkeller Running Club <br> - kl. 12-13: Jysk Pigegarde spiller i gaden</p>
         </article>
 	</section>
