@@ -24,7 +24,7 @@
 
 	<!---- VIDEO ---->
 	
-    <section class="container">
+        <section class="container">
         <video class="video" autoplay muted loop> 
             <source src="video/Butik1000Ting.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
