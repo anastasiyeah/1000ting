@@ -27,8 +27,8 @@
 	<section class="about">
 		<article class="about__article">
 		<h1 class="about__headline">Meget mere end bare en butik</h1>
-		<p class="about__maintext">Med en lang historie i Jægergårdsgade, der strækker sig over mere end 25 år, har Vi igennem årene fået skabt et kreativt og hyggeligt miljø i butikken, der indbyder kunderne til, at gå på opdagelse i vores stemningsfyldte, specielle butik.
-			Det summende gadeliv, Jægergårdsgade har, er med til at skabe en helt specielt og hyggelig stemning, som gennemstrømmer butikken - <br> Vi er en del af Jægergårdsgade - Jægergårdsgade er en del af os	</p>
+		<p class="about__maintext">Butik 1000Ting er mere en bare en butik. Vi tror på kreative tanker og elsker at indrette os med finurlige elementer og farver. Vi bestræber os på at indrette en butik, der giver plads til, at gå på opdagelse mellem de mange nøje udvalgte produkter.  Vi er draget af kreativitet og personlig udfoldelse, hvilket afspejler sig i vores produkter, der hjælper dig til, at skabe et hjem med dit eget personlige touch. <br>Siden butikkens oprindelse har vi fungeret som et kommunalt projekt, hvor det daglige arbejde inddrager socialt udsatte unge. Vi er med til at tage et socialt ansvar. 
+	</p>
 		</article>
 	<img class="about__img" src="images/plantetplants.png" alt="Hanging plants Butik 1000Ting" >
 	</section>
