@@ -1,3 +1,5 @@
+/* font */
+/* overall styling */
 * {
   margin: 0;
   padding: 0; }
@@ -6,6 +8,7 @@ a {
   text-decoration: none;
   color: #3f3f3f; }
 
+/* navigation */
 .navigation {
   font-family: "Work Sans", sans-serif;
   margin-left: 5%;
@@ -25,14 +28,7 @@ a {
     font-size: 20px;
     margin-left: 7%; }
 
-/*
-.borderline {
-    margin-left: 5%;
-    border-bottom: 3px solid #f27830;
-    width: 63%;
-    margin-bottom: 50px;
-}
-*/
+/* shoppingcart icon */
 .shoppingcart {
   font-size: 32px;
   float: right;
@@ -40,6 +36,7 @@ a {
   margin-right: 7%;
   color: #7e7e7e; }
 
+/* DA/EN */
 .available_languages {
   font-family: "Work Sans", sans-serif;
   color: #f27830;

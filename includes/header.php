@@ -1,4 +1,4 @@
-<!-- HEADER START -->
+<!-- header navigation -->
 
     <nav class="navigation">
         <ul class="navigation__line">
@@ -9,13 +9,11 @@
             <li class="navigation__link"><a href="webshop.php">WEBSHOP</a></li>
         </ul>
      </nav>
-     
-   <!--  <div class="borderline"></div> -->
 
+<!-- shopping cart -->
     <ion-icon class="shoppingcart" name="cart"></ion-icon>
 
+<!--DA/EN -->
     <p class="available_languages">DA/EN</p>
 
-     
-<!-- HEADER END -->
     

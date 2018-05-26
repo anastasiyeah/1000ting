@@ -1,5 +1,7 @@
+/* font */
 $font-family: 'Work Sans', sans-serif;
 
+/* overall styling */
 * {
     margin: 0;
     padding: 0;
@@ -10,6 +12,7 @@ a {
     color: #3f3f3f;
 }
 
+/* navigation */
 .navigation {
     font-family: $font-family;
     margin-left: 5%;
@@ -33,15 +36,7 @@ a {
     }
 }
 
-/*
-.borderline {
-    margin-left: 5%;
-    border-bottom: 3px solid #f27830;
-    width: 63%;
-    margin-bottom: 50px;
-}
-*/
-
+/* shoppingcart icon */
 .shoppingcart {
     font-size: 32px;
     float: right;
@@ -50,6 +45,7 @@ a {
     color: #7e7e7e;
 }
 
+/* DA/EN */
 .available_languages {
     font-family: $font-family;
     color: #f27830;
