@@ -4,26 +4,26 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>BUTIK 1000TING | Jægergårdsgade 18-20, 8000 Århus C</title>
-<meta name="description" content="">
+<meta name="description" content="Butik 1000Ting - besøg vores spændende interiør butik i Århus fyldt med unikke design produkter.">
 
+    <!-- reset stylesheet, which removes user agent stylesheet -->
     <link href="css/reset.css" rel="stylesheet" type="text/css">
+    
     <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
+    
     <link href="css/styles_index.css" type="text/css" rel="stylesheet"> 
     
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
 	
-    <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
-    <script src="js/animationflower.js"></script>
-    <script src="js/animation.js"></script>
 </head>
 	
 <body>
 	
-	   <!-- HEADER INCLUDE -->
+	   <!-- Header include -->
      <?php include "includes/header.php";?>
 
-	<!-- VIDEO -->
-	
+	<!-- video -->
     <aside class="container">
         <video class="video" autoplay muted loop> 
             <source src="video/Butik1000Ting.mp4" type="video/mp4">
@@ -31,25 +31,28 @@
         </video>
     </aside>
 
-	<!-- PRODUCTS AND LINK TO WEBSHOP -->	
-    
+	<!-- Header text -->	
     <section class="header">
         <h1 class="header__text">Vi er mere end bare en butik!</h1>
     </section>
     
+    <!-- description box -->
     <section class="products">
         <p class="products__description">Alle vores produkter er enten nøje udvalgt, fremstillet af genbrugsmaterialer, håndlavede unikaer eller fra en helt anden etnisk kultur. Fælles for alt er, at det er produkter med en historie og en personlighed.</p>
     </section>
     
+    <!-- webshop link -->
     <div class="webshop">
         <a href="webshop.php" class="webshop__button"> GÅ TIL WEBSHOP</a>
     </div>
     
+    <!-- openings hours -->
     <section class="info">
         <h2 class="info__header">Åbningstider</h2>
         <p class="info__text">Mandag-torsdag: 10:00 - 17:30 <br> Fredag: 10:00 - 18:00 <br> Lørdag: 10:00 - 14:00 <br> Søndag: lukket</p>
     </section>
     
+    <!-- News section -->
     <section class="news">
         <h1 class="news__header">NYHEDER</h1>
         <article class="news__article">

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- mobile -->
 <title>BUTIK 1000TING | KONTAKT</title>
-<meta name="description" content="">
+<meta name="description" content="Butik 1000Ting - konktakt os via telefon eller mail, eller kom og besøg os i butikken.">
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
     

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>BUTIK 1000TING | OM OS</title>
-<meta name="description" content="">
+<meta name="description" content="Butik 1000Ting - mere end bare en butik. Vi bestræber os på at indrette en butik, der giver plads til, at gå på opdagelse mellem de mange nøje udvalgte produkter. ">
 
 <link href="css/styles_about.css" type="text/css" rel="stylesheet"> 
 <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
