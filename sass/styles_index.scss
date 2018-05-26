@@ -1,6 +1,7 @@
-$font-heading: 'Work Sans', sans-serif;
+/* font */
+$font-family: 'Work Sans', sans-serif;
 
-/* ---- OVERALL STYLES ---- */
+/* overall style */
 
 * {
     margin: 0;
@@ -12,7 +13,7 @@ a {
     color: #3f3f3f;
 }
 
-/* VIDEO SECTION */
+/* video */
 
 .container {
     width: 100%;
@@ -24,14 +25,12 @@ a {
 .video {
     margin-top: -200px;
     width: 100%;
-    //z-index: 1;
-    //position: relative;
 }
 
-/* Header text SECTION */
+/* Header text */
 
 .header {
-    font-family: $font-heading;
+    font-family: $font-family;
     text-align: center;
     margin: 2%;
     &__text {
@@ -40,10 +39,10 @@ a {
     }
 }
 
-/* PRODUCTS AND WEBSHOPLINK SECTION */
+/* description box */
 
 .products {
-    font-family: $font-heading;
+    font-family: $font-family;
 	background-color: #f2b6a0;
     width: 350px;
     padding: 2%;
@@ -55,8 +54,10 @@ a {
     }
 }
 
+/* webshop link */
+
 .webshop {
-    font-family: $font-heading;
+    font-family: $font-family;
     &__button {
         background-color: #f27830;
         padding: 14px;
@@ -67,8 +68,10 @@ a {
     }
 }
 
+/* openings hours */
+
 .info {
-   font-family: $font-heading;
+   font-family: $font-family;
     float: right;
     text-align: center;
     margin-top: -240px;
@@ -85,14 +88,14 @@ a {
     }
 }
 
-/* news */
+/* news section */
 
 .news {
 	background-color: #f2b6a0;
 	padding: 3% 5% 3% 5%;
     margin-top: 5%;
     &__header{
-        font-family: $font-heading;
+        font-family: $font-family;
         text-align: center;
         font-size: 35px;
         margin-bottom: 3%;
@@ -106,7 +109,7 @@ a {
     }
     &__article {
         column-count: 3;
-        font-family: $font-heading;
+        font-family: $font-family;
         line-height: 30px;
     }
     &__headline {
@@ -117,5 +120,4 @@ a {
     &__text {
         padding: 0px 20px 20px 20px;
     }
-	
 }
