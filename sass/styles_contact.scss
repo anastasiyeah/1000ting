@@ -1,6 +1,6 @@
 $font-family: 'Work Sans', sans-serif;
 
-:root {
+:root { 
     --buttonBlack: black; 
     --buttonOrange: #f27830;
 }
@@ -73,7 +73,7 @@ $font-family: 'Work Sans', sans-serif;
     }
     
     
-    &__info h2{
+    &__info-headline{
         color: #f27830;
         font-weight: bold;
         font-size: 22px;
@@ -82,23 +82,23 @@ $font-family: 'Work Sans', sans-serif;
         
     }
     
-    &__info p{
+    &__info-text{
         font-size: 20px;
         margin-left: 30px;
         line-height: 26px;
         margin-top: 5px;
     }
+    
+    &__socialmedia{
+        font-size: 47px; 
+        margin-left: 41px;
+        margin-top: 12px;
+        color:var (--buttonBlack);
+    }
+    
+    &__socialmedia:hover{
+        --buttonBlack: #f27830;
+        color: var(--buttonBlack);   
+    } // Using the CSS variable 
        
-}
-
-.fa{
-    font-size: 44px!Important; //Font-awesome overwrite -> therfore !Important
-    margin-left: 41px;
-    margin-top: 12px;
-    color:var (--buttonBlack);
-}
-
-.fa:hover{
-    --buttonBlack: #f27830;
-    color: var(--buttonBlack);
 }

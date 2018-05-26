@@ -53,26 +53,24 @@
     background-color: #f1b59f;
     margin-bottom: -14px;
     font-family: "Work Sans", sans-serif; }
-  .contact__info h2 {
+  .contact__info-headline {
     color: #f27830;
     font-weight: bold;
     font-size: 22px;
     margin-top: 30px;
     margin-left: 30px; }
-  .contact__info p {
+  .contact__info-text {
     font-size: 20px;
     margin-left: 30px;
     line-height: 26px;
     margin-top: 5px; }
-
-.fa {
-  font-size: 44px !important;
-  margin-left: 41px;
-  margin-top: 12px;
-  color: var --buttonBlack; }
-
-.fa:hover {
-  --buttonBlack: #f27830;
-  color: var(--buttonBlack); }
+  .contact__socialmedia {
+    font-size: 47px;
+    margin-left: 41px;
+    margin-top: 12px;
+    color: var --buttonBlack; }
+  .contact__socialmedia:hover {
+    --buttonBlack: #f27830;
+    color: var(--buttonBlack); }
 
 /*# sourceMappingURL=styles_contact.css.map */

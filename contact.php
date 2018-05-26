@@ -13,8 +13,7 @@
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
-    
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
 	
 </head>
  <body>
@@ -33,20 +32,19 @@
     <img class="contact__img3" src="images/blueflowers1.jpg" alt="Blue flowers from shop">
     
          <section class="contact__info">
-             <h2 class="contact__info__headline">ADRESSE</h2>
-             <p>1000TING<br>Jægergårdsgade 18-20<br>8000 Aarhus C</p>
-             <h2>KONTAKT</h2>
-             <p>+45 86 18 10 90<br>butik1000ting@gmail.com</p>
-             <h2>ÅBNINGSTIDER</h2>
-             <p>Mandag: 10.00-17.30<br>Tirsdag: 10.00-17.30<br>Onsdag: 10.00-17.30<br>Torsdag: 10.00-17.30<br>Fredag: 10.00-18.00<br>Lørdag: 10.00-14.00<br>Søndag: Lukket</p>
-             <h2>SOCIALE MEDIER</h2>
-             <a href="https://www.facebook.com/1000-TING-Jægergårdsgade-18-20-8000-Århus-C-160721700633324/" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true" ></i></a> <a href="https://www.instagram.com/butik1000ting/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+             <h2 class="contact__info-headline">ADRESSE</h2>
+             <p class="contact__info-text">1000TING<br>Jægergårdsgade 18-20<br>8000 Aarhus C</p>
+             <h2 class="contact__info-headline">KONTAKT</h2>
+             <p class="contact__info-text">+45 86 18 10 90<br>butik1000ting@gmail.com</p>
+             <h2 class="contact__info-headline">ÅBNINGSTIDER</h2>
+             <p class="contact__info-text">Mandag: 10.00-17.30<br>Tirsdag: 10.00-17.30<br>Onsdag: 10.00-17.30<br>Torsdag: 10.00-17.30<br>Fredag: 10.00-18.00<br>Lørdag: 10.00-14.00<br>Søndag: Lukket</p>
+             <h2 class="contact__info-headline">SOCIALE MEDIER</h2>
+             <a href="https://www.facebook.com/1000-TING-Jægergårdsgade-18-20-8000-Århus-C-160721700633324/" target="_blank"><ion-icon class="contact__socialmedia" name="logo-facebook"></ion-icon></a> <a href="https://www.instagram.com/butik1000ting/" target="_blank"><ion-icon class="contact__socialmedia" name="logo-instagram"></ion-icon></a>
          </section>
          
          </section>
     
 
-     <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
      
         <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
