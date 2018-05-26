@@ -2,8 +2,9 @@
 $font-family: 'Work Sans', sans-serif;
 
 :root { //CSS Variables 
-    --buttonBlack: black; 
-    --buttonOrange: #f27830;
+    --Black: black;
+    --Nude: #f1b59f;
+    --Orange: #f27830;
 }
 
 .contact{
@@ -11,7 +12,7 @@ $font-family: 'Work Sans', sans-serif;
     grid-template-columns: repeat(12,1fr);
     grid-auto-rows: 100px;
     &__header {
-        background-color: #f1b59f;
+        background-color: var(--Nude);
         grid-column-start: 1;
         grid-column-end: 13;
         grid-row-start: 1;
@@ -62,12 +63,12 @@ $font-family: 'Work Sans', sans-serif;
         grid-row-start: 3;
         grid-row-end: 9;
         margin-top: -50px;
-        background-color: #f1b59f;
+        background-color: var(--Nude);
         margin-bottom: -14px;
         font-family: $font-family;
     }  
     &__info-headline{
-        color: #f27830;
+        color: var(--Orange);
         font-weight: bold;
         font-size: 22px;
         margin-top: 30px;
@@ -83,10 +84,9 @@ $font-family: 'Work Sans', sans-serif;
         font-size: 47px;
         margin-left: 41px;
         margin-top: 12px;
-        color:var (--buttonBlack);
+        color:black;
     }
     &__socialmedia:hover{
-        --buttonBlack: #f27830;
-        color: var(--buttonBlack);
+        color: var(--Orange);
     }
 }
