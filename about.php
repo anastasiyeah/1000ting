@@ -9,9 +9,11 @@
 <link href="css/styles_about.css" type="text/css" rel="stylesheet"> 
 <link href="css/styles_header.css" type="text/css" rel="stylesheet"> 
     
+    <!-- remove the user agnet stylesheet -->
     <link href="css/reset.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
-
+    
+    <!-- Script for flower animation -->
     <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
     <script src="js/animationflower.js"></script>
     <script src="js/animation.js"></script>
@@ -22,8 +24,7 @@
 	   <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
 
-	<!-- OM OS  -->
-
+	<!-- About section  -->
 	<section class="about">
 		<article class="about__article">
 		<h1 class="about__headline">Meget mere end bare en butik</h1>
