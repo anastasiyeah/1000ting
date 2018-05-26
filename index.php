@@ -24,11 +24,7 @@
 
 	<!-- VIDEO -->
 	
-<<<<<<< HEAD
-        <section class="container">
-=======
     <aside class="container">
->>>>>>> 7e11500a41b64c0fc1f956839d73e7eacbabefbb
         <video class="video" autoplay muted loop> 
             <source src="video/Butik1000Ting.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
