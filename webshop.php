@@ -9,13 +9,15 @@
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
     <link href="css/styles_webshop.css" rel="stylesheet" type="text/css">
     
+     <!-- reset stylesheet, which removes user agent stylesheet -->
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
 </head>
  <body>
      
-     <!-- HEADER INCLUDE -->
+     <!-- Header include -->
      <?php include "includes/header.php";?>
      
      <!-- Webshop picture banner -->
@@ -26,7 +28,7 @@
              <p class="webshop__subtext">Gå på opdagelse i et univers af dekorationsgenstande</p>
          </section>
          
-         <!-- sidebar nav inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
+         <!-- sidebar nav, inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_dropdown -->
          <div class="webshop__filter">
              <button class="webshop__category">KATEGORIER</button>
              <div class="webshop__dropdown-open">
@@ -55,7 +57,7 @@
              </div>
          </div>
 
-         <!-- products section -->
+         <!-- products section, every products is in a li -->
          <section class="webshop__products">
              <ul class="webshop__list">
                  <li class="webshop__items">

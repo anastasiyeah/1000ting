@@ -10,10 +10,13 @@
     
     <link href="css/styles_contact.css" rel="stylesheet" type="text/css">
     
+    <!-- reset stylesheet, which removes user agent stylesheet -->
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
     
+    <!-- Social media icons -->
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	
 </head>
@@ -22,16 +25,19 @@
      <!-- HEADER INCLUDE -->
      <?php include "includes/header.php";?>
      
+     <!-- contact header -->
      <article class="contact">
      <section class="contact__header">
-     <h1 class="contact__headline">KONTAKT OS</h1>
-     <p class="contact__headtext">Vi glæder os til at høre fra dig eller se dig i butikken.</p>
+        <h1 class="contact__headline">KONTAKT OS</h1>
+        <p class="contact__headtext">Vi glæder os til at høre fra dig eller se dig i butikken.</p>
         </section>
       
+         <!-- gallery -->
     <img class="contact__img1" src="images/frontviewshop.jpg" alt="Front view of the shop">
     <img class="contact__img2" src="images/pillows.jpg" alt="Pillows in different colors">
     <img class="contact__img3" src="images/blueflowers1.jpg" alt="Blue flowers from shop">
     
+         <!-- contact info section -->
          <section class="contact__info">
              <h2 class="contact__info__headline">ADRESSE</h2>
              <p>1000TING<br>Jægergårdsgade 18-20<br>8000 Aarhus C</p>
@@ -42,11 +48,7 @@
              <h2>SOCIALE MEDIER</h2>
              <a href="https://www.facebook.com/1000-TING-Jægergårdsgade-18-20-8000-Århus-C-160721700633324/" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true" ></i></a> <a href="https://www.instagram.com/butik1000ting/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
          </section>
-         
          </article>
-    
-
-     <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
      
         <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
