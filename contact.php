@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- mobile -->
-<title>1000 TING | Jægergårdsgade 18-20, 8000 Århus C</title>
+<title>Butik 1000TING | Jægergårdsgade 18-20, 8000 Århus C</title>
 <meta name="description" content="">
     
     <link href="css/styles_header.css" rel="stylesheet" type="text/css">
