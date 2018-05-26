@@ -1,9 +1,8 @@
 <!-- HEADER START -->
 
     <nav class="navigation">
-       <h2 class="navigation__name">BUTIK 1000TING</h2>
-    
         <ul class="navigation__line">
+            <li><h2 class="navigation__name">BUTIK 1000TING</h2></li>
             <li class="navigation__link"><a href="index.php">HJEM</a></li>
             <li class="navigation__link"><a href="om_os.php">OM OS</a></li>
             <li class="navigation__link"><a href="kontakt.php">KONTAKT</a></li>
