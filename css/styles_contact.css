@@ -80,8 +80,6 @@
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px) {
-  .contact__header {
-    margin-right: -57px; }
   .contact__img1 {
     display: none; }
   .contact__img2 {
@@ -94,6 +92,6 @@
     grid-row-start: 3;
     grid-row-end: 9;
     margin-top: -100px;
-    margin-right: -85px; } }
+    margin-right: -30px; } }
 
 /*# sourceMappingURL=styles_contact.css.map */
