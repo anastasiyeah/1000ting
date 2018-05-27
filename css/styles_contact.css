@@ -78,4 +78,22 @@
   .contact__socialmedia:hover {
     color: var(--Orange); }
 
+/* MEDIA QUERIES */
+@media only screen and (max-width: 767px) {
+  .contact__header {
+    margin-right: -57px; }
+  .contact__img1 {
+    display: none; }
+  .contact__img2 {
+    display: none; }
+  .contact__img3 {
+    display: none; }
+  .contact__info {
+    grid-column-start: 1;
+    grid-column-end: 12;
+    grid-row-start: 3;
+    grid-row-end: 9;
+    margin-top: -100px;
+    margin-right: -85px; } }
+
 /*# sourceMappingURL=styles_contact.css.map */

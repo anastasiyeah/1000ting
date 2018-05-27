@@ -94,3 +94,31 @@ $font-family: 'Work Sans', sans-serif;
         color: var(--Orange);
     }
 }
+
+/* MEDIA QUERIES */
+
+@media only screen and (max-width: 767px) {
+    
+    .contact {
+        &__header {
+            margin-right: -57px;
+        }
+        &__img1 {
+            display: none;
+        }
+         &__img2 {
+            display: none;
+        }
+         &__img3 {
+            display: none;
+        }
+        &__info {
+            grid-column-start: 1;
+            grid-column-end: 12;
+            grid-row-start: 3;
+            grid-row-end: 9;
+            margin-top: -100px;
+            margin-right: -85px;
+        }
+    }
+}
