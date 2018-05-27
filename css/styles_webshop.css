@@ -164,17 +164,14 @@ a {
   /* MOBILE PORTRAIT */
   .webshop__banner-image {
     display: none; }
-
   .webshop__header {
     font-size: 30px;
     margin-top: 30px;
     padding-left: 50px; }
-
   .webshop__subtext {
     line-height: 1.3;
     margin-left: 49px;
     margin-top: 12px; }
-
   .webshop__filter {
     grid-column-start: 1;
     grid-column-end: 13;
@@ -182,14 +179,27 @@ a {
     grid-row-end: 9;
     margin-right: -57px;
     margin-top: -10px; }
-
   .webshop__products {
     grid-column-start: 4;
     grid-column-end: 13;
     grid-row-start: 9;
     grid-row-end: 20; }
-
   .webshop__dropdown-closed {
-    display: block; } }
+    display: block; }
+  .webshop__hover {
+    opacity: 1;
+    top: 35%;
+    left: 50%; }
+  .webshop__modal-product {
+    line-height: 30px; }
+  .webshop__modal-name {
+    font-size: 20px; }
+  .webshop__modal-image {
+    margin-left: 25px; }
+  .webshop__modal-content {
+    column-count: 1; }
+
+  .modal-close {
+    margin-top: -230px; } }
 
 /*# sourceMappingURL=styles_webshop.css.map */
