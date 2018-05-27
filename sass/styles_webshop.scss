@@ -77,23 +77,21 @@ a {
         grid-row-end: 8;
     }
     &__list {
-       padding: 0;
-        list-style: none;
         display: flex;
         flex-flow: row wrap;
+        padding: 0;
+        list-style: none;
         justify-content: space-around;
         margin-left: -50px;
     }
     &__items {
         width: 275px;
         height: 250px;
-        text-align: center;
-        
+        text-align: center;¢
         position: relative;
     }
     &__image {
         width: 60%;
-        
         opacity: 1;
         transition: .5s ease;
         backface-visibility: hidden;

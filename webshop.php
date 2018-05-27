@@ -60,6 +60,7 @@
          <!-- products section, every products is in a li -->
          <section class="webshop__products">
              <ul class="webshop__list">
+                 
                  <li class="webshop__items">
                      <img class="webshop__image" src="images/keramik1.png" alt="Butik 1000Ting's product image">
                      <h2>Unika Keramik <br> 250DKK</h2>
@@ -67,8 +68,7 @@
                          <a href="#" class="webshop__buy" id="modalBtn">TILFØJ</a>
                      </div>
                  </li>
-            
-                <!-- The Modal -->
+                <!-- The Modal, inspiration from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal -->
                 <nav class="webshop__modal" id="modal">
                   <!-- Modal content -->
                   <aside class="webshop__modal-content">
