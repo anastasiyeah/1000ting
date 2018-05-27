@@ -6,6 +6,7 @@ $font-family: 'Work Sans', sans-serif;
 .about {
     padding-left: 4%;
     padding-bottom: 4%;
+    font-weight: 300;
 	&__article {
 	   max-width: 30%;
 	   line-height: 30px;
@@ -17,10 +18,10 @@ $font-family: 'Work Sans', sans-serif;
 		padding-bottom: 1%;
 	}
 	&__img {
-        max-width: 33%;
+        max-width: 45%;
         float: right;
-        margin-top: -22%;
-        margin-right: 14%;
+        margin-top: -26%;
+        margin-right: 9%;
 	}
 }
 
@@ -45,6 +46,7 @@ $font-family: 'Work Sans', sans-serif;
         text-align: center;
         font-size: 28px;
         margin-bottom: 3%;
+        font-weight: 300;
     }
     &__img {
         width: 350px;

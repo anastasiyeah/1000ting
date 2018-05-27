@@ -14,7 +14,7 @@
     <link href="css/styles_index.css" type="text/css" rel="stylesheet"> 
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
 	
 </head>
 	

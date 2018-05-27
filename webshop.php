@@ -13,7 +13,7 @@
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
 </head>
  <body>
      
