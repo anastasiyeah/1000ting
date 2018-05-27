@@ -18,6 +18,7 @@ a {
     margin-left: 5%;
     margin-top: 3%;
     color: #f27830;
+    font-weight: 200;
     &__name {
         display: inline-block;
         font-size: 40px;
@@ -32,7 +33,7 @@ a {
     &__link {
         display: inline-block;
         font-size: 20px;
-        margin-left: 7%;
+        margin-left: 6%;
     }
 }
 
@@ -52,4 +53,5 @@ a {
     float: right;
     margin-right: 2%;
     margin-top: -8%;
+    font-weight: 300;
 }

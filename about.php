@@ -13,7 +13,7 @@
     <link href="css/reset.css" rel="stylesheet" type="text/css">
     
     <!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
     
     <!-- Script for flower animation -->
     <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>

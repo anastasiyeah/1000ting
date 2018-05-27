@@ -13,7 +13,8 @@ a {
   font-family: "Work Sans", sans-serif;
   margin-left: 5%;
   margin-top: 3%;
-  color: #f27830; }
+  color: #f27830;
+  font-weight: 200; }
   .navigation__name {
     display: inline-block;
     font-size: 40px; }
@@ -26,7 +27,7 @@ a {
   .navigation__link {
     display: inline-block;
     font-size: 20px;
-    margin-left: 7%; }
+    margin-left: 6%; }
 
 /* shoppingcart icon */
 .shoppingcart {
@@ -42,6 +43,7 @@ a {
   color: #f27830;
   float: right;
   margin-right: 2%;
-  margin-top: -8%; }
+  margin-top: -8%;
+  font-weight: 300; }
 
 /*# sourceMappingURL=styles_header.css.map */
