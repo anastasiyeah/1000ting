@@ -28,7 +28,7 @@ a {
     &__line {
         display: inline-block;
         list-style-type: none;
-        width: 62%; // 70%
+        width: 59%;
         border-bottom: 3px solid #f27830;
         margin-bottom: 50px;
     }
@@ -84,4 +84,11 @@ a {
     display: block;
     text-align: left;
   }
+    .navigation__name{
+        font-size: 30px;
+    }
+    .navigation__line{
+        width: 90%;
+    }
+    
 }

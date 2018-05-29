@@ -23,7 +23,7 @@ a {
   .navigation__line {
     display: inline-block;
     list-style-type: none;
-    width: 62%;
+    width: 59%;
     border-bottom: 3px solid #f27830;
     margin-bottom: 50px; }
   .navigation__link {
@@ -71,6 +71,12 @@ a {
   .navigation.responsive a {
     float: none;
     display: block;
-    text-align: left; } }
+    text-align: left; }
+
+  .navigation__name {
+    font-size: 30px; }
+
+  .navigation__line {
+    width: 90%; } }
 
 /*# sourceMappingURL=styles_header.css.map */

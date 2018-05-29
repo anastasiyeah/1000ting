@@ -16,7 +16,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-	
+	<script src="js/header.js"></script>
 </head>
  <body>
      
@@ -51,15 +51,5 @@
         <!-- Ionicons -->
      <script src="https://unpkg.com/ionicons@4.1.1/dist/ionicons.js"></script>
      
-         <script>
-function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "navigation") {
-        x.className += " responsive";
-    } else {
-        x.className = "navigation";
-    }
-}
-</script>
 </body>
 </html>
