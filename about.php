@@ -15,9 +15,12 @@
     <!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
     
-    <!-- Script Header + link font icon--> 
-    <script src="js/header.js"></script>
+    <!-- Icon Header -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <!-- Script Header --> 
+    <script src="js/header.js"></script>
+    
     
     <!-- Script for flower animation -->
     <script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
