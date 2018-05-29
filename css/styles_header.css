@@ -1,3 +1,5 @@
+/* font */
+/* overall styling */
 * {
   margin: 0;
   padding: 0; }
@@ -6,30 +8,28 @@ a {
   text-decoration: none;
   color: #3f3f3f; }
 
+/* navigation */
 .navigation {
   font-family: "Work Sans", sans-serif;
   margin-left: 5%;
   margin-top: 3%;
-  color: #f27830; }
+  color: #f27830;
+  font-weight: 200; }
   .navigation__name {
     display: inline-block;
-    margin-right: 7%;
     font-size: 40px; }
   .navigation__line {
     display: inline-block;
     list-style-type: none;
-    width: 70%; }
+    width: 62%;
+    border-bottom: 3px solid #f27830;
+    margin-bottom: 50px; }
   .navigation__link {
     display: inline-block;
     font-size: 20px;
-    margin-right: 7%; }
+    margin-left: 6%; }
 
-.borderline {
-  margin-left: 5%;
-  border-bottom: 3px solid #f27830;
-  width: 63%;
-  margin-bottom: 50px; }
-
+/* shoppingcart icon */
 .shoppingcart {
   font-size: 32px;
   float: right;
@@ -37,11 +37,17 @@ a {
   margin-right: 7%;
   color: #7e7e7e; }
 
+/* DA/EN */
 .available_languages {
   font-family: "Work Sans", sans-serif;
   color: #f27830;
   float: right;
   margin-right: 2%;
-  margin-top: -10%; }
+  margin-top: -8%;
+  font-weight: 300; }
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 767px) {
+  /* MOBILE PORTRAIT */ }
 
 /*# sourceMappingURL=styles_header.css.map */
