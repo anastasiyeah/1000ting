@@ -6,3 +6,5 @@ function myFunction() {
         x.className = "navigation";
     }
 }
+
+// code snippet from w3school - implemented with own classes

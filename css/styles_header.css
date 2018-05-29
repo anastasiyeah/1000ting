@@ -58,8 +58,8 @@ a {
 
   .navigation a.icon {
     float: right;
-    display: block; } }
-@media screen and (max-width: 600px) {
+    display: block; }
+
   .navigation.responsive {
     position: relative; }
 
