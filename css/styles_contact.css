@@ -88,7 +88,7 @@
     display: none; }
   .contact__info {
     grid-column-start: 1;
-    grid-column-end: 12;
+    grid-column-end: 13;
     grid-row-start: 3;
     grid-row-end: 9;
     margin-top: -100px;
